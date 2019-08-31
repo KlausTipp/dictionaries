@@ -49,9 +49,9 @@ fs.readFileSync(path.join(base, 'index.aff'), 'utf-8')
 ## License
 
 Dictionary and affix file: LGPL-2.1.
-Rest: MIT © [Titus Wormer][home].
+Rest: [MIT][] © [Titus Wormer][home].
 
-[hunspell]: http://hunspell.github.io
+[hunspell]: https://hunspell.github.io
 
 [nodehun]: https://github.com/nathanjsweet/nodehun
 
@@ -64,5 +64,7 @@ Rest: MIT © [Titus Wormer][home].
 [npm]: https://docs.npmjs.com/cli/install
 
 [dictionaries]: https://github.com/wooorm/dictionaries
+
+[mit]: https://github.com/wooorm/dictionaries/blob/master/LICENSE
 
 [home]: https://wooorm.com

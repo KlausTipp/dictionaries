@@ -40,8 +40,6 @@ unpack() {
     filename=$(basename "$3")
     extension="${filename#*.}"
 
-    echo "$3, $extension"
-
     if [ "$extension" = "tar.bz2" ]; then
       mkdir -p "$sourcePath"
       tar xvjf "$3" -C "$sourcePath" --strip-components=1
@@ -52,7 +50,7 @@ unpack() {
       unzip "$3" -d "$sourcePath"
     fi
 
-    echo "$2" > "$sourcePath/SOURCE"
+    echo "$2" > "$sourcePath/.source"
   fi
 }
 
@@ -76,8 +74,8 @@ crawl() {
   if [ "$extension" = "tar.bz2" ]; then
     archivePath="$ARCHIVES/$1.tar.bz2"
   fi
-  # Normal GZipped tar, a hack for hebrew, and a hack for hungarian.
-  if [ "$extension" = "tar.gz" ] || [ "$extension" = "4.tar.gz" ] || [ "$extension" = "6.tar.gz" ]; then
+  # Normal GZipped tar, and a hack for hebrew.
+  if [ "$extension" = "tar.gz" ] || [ "$extension" = "4.tar.gz" ]; then
     archivePath="$ARCHIVES/$1.tar.gz"
   fi
 
@@ -109,13 +107,13 @@ generate() {
 
   mkdir -p "$dictionary"
 
-  cp "$SOURCE/SOURCE" "$dictionary/SOURCE"
+  cp "$SOURCE/.source" "$dictionary/.source"
 
   if [ -e "$SOURCE/$3" ]; then
     (
       iconv -f "$4" -t "UTF-8" | # Encoding
       awk 'NR==1{sub(/^\xef\xbb\xbf/,"")}1' | # BOM
-      sed 's/[ \t]*$//' | # Trailing white-space
+      sed 's/[ 	]*$//' | # Trailing white-space
       tr -d '\r' # Newlines
     ) < "$SOURCE/$3" > "$dictionary/index.dic"
     printf "   $(green "✓") index.dic (from $4)\n"
@@ -128,7 +126,7 @@ generate() {
       iconv -f "$6" -t "UTF-8" | # Encoding
       sed "s/SET .*/SET UTF-8/" | # Encoding Pragma
       awk 'NR==1{sub(/^\xef\xbb\xbf/,"")}1' | # BOM
-      sed 's/[ \t]*$//' | # Trailing white-space
+      sed 's/[ 	]*$//' | # Trailing white-space
       tr -d '\r' # Newlines
     ) < "$SOURCE/$5" > "$dictionary/index.aff"
     printf "   $(green "✓") index.aff (from $6)\n"
@@ -136,20 +134,20 @@ generate() {
     printf "   $(red "𐄂 Could not find $5 file")\n"
   fi
 
-  echo "$7" > "$dictionary/SPDX"
+  echo "$7" > "$dictionary/.spdx"
 
   if [ "$8" = "" ]; then
-    printf "     No $(yellow "LICENSE") file\n"
+    printf "     No $(yellow "license") file\n"
   elif [ -e "$SOURCE/$8" ]; then
     (
       iconv -f "$9" -t "UTF-8" | # Encoding
       awk 'NR==1{sub(/^\xef\xbb\xbf/,"")}1' | # BOM
-      sed 's/[ \t]*$//' | # Trailing white-space
+      sed 's/[ 	]*$//' | # Trailing white-space
       tr -d '\r' # Newlines
-    ) < "$SOURCE/$8" > "$dictionary/LICENSE"
-    printf "   $(green "✓") LICENSE (from $9)\n"
+    ) < "$SOURCE/$8" > "$dictionary/license"
+    printf "   $(green "✓") license (from $9)\n"
   else
-    printf "   $(red "𐄂 Could not find LICENSE file")\n"
+    printf "   $(red "𐄂 Could not find license file")\n"
   fi
 }
 
@@ -173,20 +171,20 @@ crawl "breton" \
   "http://drouizig.org/index.php/br/binviou-br/difazier-hunspell" \
   "http://drouizig.org/images/stories/difazier/hunspell/pakadaou/difazier-an-drouizig-0-14.zip"
 crawl "bulgarian" \
-  "http://extensions.openoffice.org/en/project/bulgarian-dictionaries-blgarski-rechnici" \
-  "http://sourceforge.net/projects/aoo-extensions/files/744/8/dictionaries-bg.oxt/download"
+  "http://bgoffice.sourceforge.net" \
+  "https://iweb.dl.sourceforge.net/project/bgoffice/OpenOffice.org%20Full%20Pack/4.3/OOo-full-pack-bg-4.3.zip"
 crawl "catalan" \
   "https://github.com/Softcatala/catalan-dict-tools" \
-  "https://github.com/Softcatala/catalan-dict-tools/releases/download/v3.0.2/ca.3.0.2-hunspell.zip"
+  "https://github.com/Softcatala/catalan-dict-tools/releases/download/v3.0.3/ca.3.0.3-hunspell.zip"
 crawl "catalan-valencian" \
   "https://github.com/Softcatala/catalan-dict-tools" \
-  "https://github.com/Softcatala/catalan-dict-tools/releases/download/v3.0.2/ca-valencia.3.0.2-hunspell.zip"
+  "https://github.com/Softcatala/catalan-dict-tools/releases/download/v3.0.3/ca-valencia.3.0.3-hunspell.zip"
 crawl "croatian" \
-  "http://cvs.linux.hr/spell/" \
-  "http://cvs.linux.hr/spell/myspell/hr_HR.zip"
+  "https://github.com/krunose/hunspell-hr" \
+  "https://github.com/krunose/hunspell-hr/archive/master.zip"
 crawl "czech" \
   "http://extensions.openoffice.org/en/project/czech-dictionary-pack-ceske-slovniky-cs-cz" \
-  "http://sourceforge.net/projects/aoo-extensions/files/1078/0/dict-cs-2.0.oxt/download"
+  "https://iweb.dl.sourceforge.net/project/aoo-extensions/1078/0/dict-cs-2.0.oxt"
 crawl "danish" \
   "http://www.stavekontrolden.dk" \
   "http://www.stavekontrolden.dk/main/top/extension/dict-da-current.oxt"
@@ -195,31 +193,32 @@ crawl "dutch" \
   "https://github.com/OpenTaal/dutch/archive/master.zip"
 crawl "english" \
   "http://extensions.openoffice.org/en/project/english-dictionaries-apache-openoffice" \
-  "https://sourceforge.net/projects/aoo-extensions/files/17102/35/dict-en-20170701.oxt/download"
+  "https://iweb.dl.sourceforge.net/project/aoo-extensions/17102/47/dict-en-20190501b.oxt"
 crawl "english-gb" \
   "http://wordlist.aspell.net/dicts/" \
-  "https://downloads.sourceforge.net/project/wordlist/speller/2017.01.22/hunspell-en_GB-ise-2017.01.22.zip"
+  "https://iweb.dl.sourceforge.net/project/wordlist/speller/2018.04.16/hunspell-en_GB-ise-2018.04.16.zip"
 crawl "english-american" \
   "http://wordlist.aspell.net/dicts/" \
-  "https://downloads.sourceforge.net/project/wordlist/speller/2017.01.22/hunspell-en_US-2017.01.22.zip"
+  "https://netix.dl.sourceforge.net/project/wordlist/speller/2018.04.16/hunspell-en_US-2018.04.16.zip"
 crawl "english-canadian" \
   "http://wordlist.aspell.net/dicts/" \
-  "https://downloads.sourceforge.net/project/wordlist/speller/2017.01.22/hunspell-en_CA-2017.01.22.zip"
+  "https://iweb.dl.sourceforge.net/project/wordlist/speller/2018.04.16/hunspell-en_CA-2018.04.16.zip"
 crawl "english-australian" \
   "http://wordlist.aspell.net/dicts/" \
-  "https://downloads.sourceforge.net/project/wordlist/speller/2017.01.22/hunspell-en_AU-2017.01.22.zip"
+  "https://datapacket.dl.sourceforge.net/project/wordlist/speller/2018.04.16/hunspell-en_AU-2018.04.16.zip"
 crawl "esperanto" \
   "http://www.esperantilo.org/index_en.html" \
   "http://www.esperantilo.org/evortaro.zip"
-crawl "faroese" \
-  "http://www.stava.fo" \
-  "http://www.stava.fo/download/hunspell.zip"
+# TODO: Stava is down.
+# crawl "faroese" \
+#   "http://www.stava.fo" \
+#   "http://www.stava.fo/download/hunspell.zip"
 crawl "french" \
-  "https://www.dicollecte.org" \
-  "http://www.dicollecte.org/download/fr/hunspell-french-dictionaries-v6.3.zip"
+  "https://grammalecte.net" \
+  "https://grammalecte.net/grammalecte/oxt/Grammalecte-fr-v1.1.1.oxt"
 crawl "frisian" \
-  "https://taalweb.frl/downloads" \
-  "https://www.fryske-akademy.nl/spell/oxt/fy_NL-20160722.oxt"
+  "https://github.com/PanderMusubi/frisian" \
+  "https://github.com/PanderMusubi/frisian/archive/master.zip"
 crawl "friulian" \
   "http://digilander.libero.it/paganf/coretors/dizionaris.html" \
   "http://digilander.libero.it/paganf/coretors/myspell-fur-12092005.zip"
@@ -227,41 +226,49 @@ crawl "gaelic" \
   "https://github.com/kscanne/hunspell-gd" \
   "https://github.com/kscanne/hunspell-gd/archive/master.zip"
 crawl "galician" \
-  "http://extensions.openoffice.org/en/project/corrector-ortografico-hunspell-para-galego" \
-  "http://sourceforge.net/projects/aoo-extensions/files/5660/1/hunspell-gl-13.10.oxt/download"
+  "https://github.com/meixome/hunspell-gl" \
+  "https://github.com/meixome/hunspell-gl/archive/master.zip"
+crawl "georgian" \
+  "https://github.com/gamag/ka_GE.spell" \
+  "https://github.com/gamag/ka_GE.spell/archive/master.zip"
 crawl "german" \
   "https://www.j3e.de/ispell/igerman98/index_en.html" \
   "https://www.j3e.de/ispell/igerman98/dict/igerman98-20161207.tar.bz2"
 crawl "greek" \
-  "http://www.elspell.gr" \
+  "https://github.com/stevestavropoulos/elspell" \
   "https://github.com/stevestavropoulos/elspell/archive/master.zip"
 crawl "greek-polyton" \
   "https://thepolytonicproject.gr/spell" \
-  "https://sourceforge.net/projects/greekpolytonicsp/files/greek_polytonic_2.0.7.oxt/download"
+  "https://iweb.dl.sourceforge.net/project/greekpolytonicsp/greek_polytonic_2.0.7.oxt"
 crawl "hebrew" \
   "http://hspell.ivrix.org.il" \
   "http://hspell.ivrix.org.il/hspell-1.4.tar.gz"
-crawl "hungarian" \
-  "http://magyarispell.sourceforge.net" \
-  "https://sourceforge.net/projects/magyarispell/files/Magyar%20Ispell/1.6/hu_HU-1.6.tar.gz/download"
+# TODO: laszlonemeth/magyarispell#9
+# crawl "hungarian" \
+#   "https://github.com/laszlonemeth/magyarispell" \
+#   "https://github.com/laszlonemeth/magyarispell/archive/master.zip"
 crawl "interlingua" \
   "https://addons.mozilla.org/en-us/firefox/addon/dict-ia/" \
   "https://addons.mozilla.org/firefox/downloads/latest/dict-ia/addon-514646-latest.xpi"
 crawl "interlingue" \
   "https://github.com/Carmina16/hunspell-ie" \
   "https://github.com/Carmina16/hunspell-ie/archive/master.zip"
-crawl "irish" \
-  "http://borel.slu.edu/ispell/index-en.html" \
-  "https://github.com/kscanne/gaelspell/archive/v4.8.zip"
+# TODO: kscanne/gaelspell#2
+# crawl "irish" \
+#   "https://github.com/kscanne/gaelspell" \
+#   "https://github.com/kscanne/gaelspell/archive/v5.0.zip"
 crawl "italian" \
   "http://www.plio.it" \
-  "https://sourceforge.net/projects/aoo-extensions/files/1204/14/dict-it.oxt/download"
+  "https://iweb.dl.sourceforge.net/project/aoo-extensions/1204/14/dict-it.oxt"
 crawl "kinyarwanda" \
   "https://github.com/kscanne/hunspell-rw" \
   "https://github.com/kscanne/hunspell-rw/archive/master.zip"
+crawl "klingon" \
+  "https://github.com/PanderMusubi/klingon" \
+  "https://github.com/PanderMusubi/klingon/archive/master.zip"
 crawl "korean" \
   "https://github.com/spellcheck-ko/hunspell-dict-ko" \
-  "https://github.com/spellcheck-ko/hunspell-dict-ko/releases/download/0.6.2/ko-aff-dic-0.6.2.zip"
+  "https://github.com/spellcheck-ko/hunspell-dict-ko/releases/download/0.7.1/ko-aff-dic-0.7.1.zip"
 crawl "latgalian" \
   "http://dict.dv.lv/home.php?prj=la" \
   "http://dict.dv.lv/download/ltg_LV-0.1.5.oxt"
@@ -270,7 +277,7 @@ crawl "latvian" \
   "http://dict.dv.lv/download/lv_LV-1.3.0.oxt"
 crawl "latin" \
   "https://extensions.openoffice.org/project/dict-la" \
-  "https://sourceforge.net/projects/aoo-extensions/files/1141/3/dict-la_2013-03-31.oxt/download"
+  "https://iweb.dl.sourceforge.net/project/aoo-extensions/1141/3/dict-la_2013-03-31.oxt"
 crawl "libreoffice" \
   "https://github.com/LibreOffice/dictionaries" \
   "https://github.com/LibreOffice/dictionaries/archive/master.zip"
@@ -288,52 +295,58 @@ crawl "luxembourgish" \
 #   "https://github.com/dimztimz/hunspell-mk/archive/master.zip"
 crawl "mongolian" \
   "http://extensions.openoffice.org/en/project/mongol-helniy-ugiyn-aldaa-shalgagch-ueer-taslagch-mongolian-spelling-and-hyphenation" \
-  "http://sourceforge.net/projects/aoo-extensions/files/3204/2/dict-mn.oxt/download"
+  "https://iweb.dl.sourceforge.net/project/aoo-extensions/3204/2/dict-mn.oxt"
 crawl "nepali" \
   "http://ltk.org.np" \
   "http://ltk.org.np/downloads/ne_NP_dict.zip"
 crawl "norwegian" \
   "http://no.speling.org" \
   "https://alioth-archive.debian.org/releases/spell-norwegian/spell-norwegian/spell-norwegian-latest.zip"
+crawl "persian" \
+  "https://github.com/b00f/lilak" \
+  "https://github.com/b00f/lilak/releases/download/v3.2/fa-IR.zip"
 crawl "polish" \
   "http://extensions.openoffice.org/en/project/polish-dictionary-pack" \
-  "http://sourceforge.net/projects/aoo-extensions/files/806/4/pl-dict.oxt/download"
+  "https://iweb.dl.sourceforge.net/project/aoo-extensions/806/4/pl-dict.oxt"
 crawl "portuguese" \
-  "http://extensions.openoffice.org/en/project/european-portuguese-dictionaries" \
-  "http://sourceforge.net/projects/aoo-extensions/files/1196/35/oo3x-pt-pt-15.7.4.1.oxt/download"
+  "http://natura.di.uminho.pt" \
+  "http://natura.di.uminho.pt/download/sources/Dictionaries/hunspell/hunspell-pt_PT-20190329.tar.gz"
 crawl "portuguese-br" \
   "http://extensions.openoffice.org/en/project/vero-brazilian-portuguese-spellchecking-dictionary-hyphenator" \
-  "http://sourceforge.net/projects/aoo-extensions/files/1375/8/vero_pt_br_v208aoc.oxt/download"
+  "https://iweb.dl.sourceforge.net/project/aoo-extensions/1375/8/vero_pt_br_v208aoc.oxt"
 crawl "romanian" \
   "http://extensions.openoffice.org/en/project/romanian-dictionary-pack-spell-checker-hyphenation-thesaurus" \
-  "http://sourceforge.net/projects/aoo-extensions/files/1392/10/dict-ro.1.7.oxt/download"
+  "https://iweb.dl.sourceforge.net/project/aoo-extensions/1392/10/dict-ro.1.7.oxt"
 crawl "russian" \
   "http://extensions.openoffice.org/en/project/russian-dictionary" \
-  "http://sourceforge.net/projects/aoo-extensions/files/936/9/dict_ru_ru-0.6.oxt/download"
+  "https://iweb.dl.sourceforge.net/project/aoo-extensions/936/9/dict_ru_ru-0.6.oxt"
 crawl "serbian" \
   "http://extensions.openoffice.org/en/project/serbian-cyrillic-and-latin-spelling-and-hyphenation" \
-  "http://sourceforge.net/projects/aoo-extensions/files/1572/9/dict-sr.oxt/download"
+  "https://iweb.dl.sourceforge.net/project/aoo-extensions/1572/9/dict-sr.oxt"
 crawl "slovak" \
   "http://extensions.openoffice.org/en/project/slovak-dictionary-package-slovenske-slovniky" \
-  "http://sourceforge.net/projects/aoo-extensions/files/1143/11/dict-sk.oxt/download"
+  "https://iweb.dl.sourceforge.net/project/aoo-extensions/1143/11/dict-sk.oxt"
 crawl "slovenian" \
   "http://extensions.openoffice.org/en/project/slovenian-dictionary-package-slovenski-paket-slovarjev" \
-  "http://sourceforge.net/projects/aoo-extensions/files/3280/9/pack-sl.oxt/download"
+  "https://vorboss.dl.sourceforge.net/project/aoo-extensions/3280/10/pack-sl.oxt"
 crawl "spanish" \
   "http://extensions.openoffice.org/en/project/spanish-espanol" \
-  "http://sourceforge.net/projects/aoo-extensions/files/2979/3/es_es.oxt/download"
+  "https://datapacket.dl.sourceforge.net/project/aoo-extensions/2979/3/es_es.oxt"
 crawl "swedish" \
   "http://extensions.openoffice.org/en/project/swedish-dictionaries-apache-openoffice" \
-  "http://sourceforge.net/projects/aoo-extensions/files/5959/1/dict-sv.oxt/download"
+  "https://iweb.dl.sourceforge.net/project/aoo-extensions/5959/1/dict-sv.oxt"
 crawl "turkish" \
   "http://extensions.openoffice.org/en/project/turkish-spellcheck-dictionary" \
-  "http://sourceforge.net/projects/aoo-extensions/files/18079/3/oo-turkish-dict-v1.2.oxt/download"
+  "https://iweb.dl.sourceforge.net/project/aoo-extensions/18079/0/oo-turkish-dict-v1.3.oxt"
+crawl "turkmen" \
+  "https://github.com/nazartm/turkmen-spell-check-dictionary" \
+  "https://github.com/nazartm/turkmen-spell-check-dictionary/archive/master.zip"
 crawl "ukrainian" \
-  "http://extensions.openoffice.org/en/project/ukrainian-dictionary" \
-  "http://sourceforge.net/projects/aoo-extensions/files/975/6/dict-uk_ua-1.7.1.oxt/download"
+  "https://github.com/brown-uk/dict_uk" \
+  "https://github.com/brown-uk/dict_uk/releases/download/v4.4.2/hunspell-uk_UA_4.4.2.zip"
 crawl "vietnamese" \
-  "http://extensions.openoffice.org/en/project/vietnamese-spellchecker" \
-  "http://sourceforge.net/projects/aoo-extensions/files/917/3/vi_spellchecker_ooo3.oxt/download"
+  "https://github.com/1ec5/hunspell-vi" \
+  "https://github.com/1ec5/hunspell-vi/releases/download/v2.2.0/vi_spellchecker_OOo3.oxt"
 
 printf "$(bold "Crawled")!\n\n"
 
@@ -345,7 +358,7 @@ printf "$(bold "Making")...\n"
 
 echo "  estonian"
 mkdir -p "$SOURCES/estonian"
-echo "http://www.meso.ee/~jjpp/speller" > "$SOURCES/estonian/SOURCE"
+echo "http://www.meso.ee/~jjpp/speller" > "$SOURCES/estonian/.source"
 if [ ! -e "$SOURCES/estonian/et.aff" ]; then
   wget "http://www.meso.ee/~jjpp/speller/et_EE.aff" -O "$SOURCES/estonian/et.aff"
 fi
@@ -368,11 +381,18 @@ cd "$SOURCES/greek/elspell-master" || exit
 make
 cd ../../.. || exit
 
-echo "  irish"
-cd "$SOURCES/irish/gaelspell-4.8" || exit
-cpan -i roman
-make ga_IE.dic ga_IE.aff
-cd ../../.. || exit
+echo "  greek (polyton)"
+cd "$SOURCES/greek-polyton" || exit
+sed -i 's/REP έψ	εύσ/REP έψ εύσ/g' el_GR.aff
+printf "   $(green "✓") fixed tab\n"
+cd ../.. || exit
+
+# TODO: kscanne/gaelspell#2
+# echo "  irish"
+# cd "$SOURCES/irish/gaelspell-5.0" || exit
+# cpan -i Roman.pm
+# make ga_IE.aff ga_IE.dic
+# cd ../../.. || exit
 
 echo "  kinyarwanda"
 cd "$SOURCES/kinyarwanda/hunspell-rw-master" || exit
@@ -386,6 +406,12 @@ if [ ! -e "Makefile" ]; then
 fi
 PERL5LIB="$PERL5LIB:." make hunspell
 cd ../.. || exit
+
+# TODO: laszlonemeth/magyarispell#9
+# echo "  hungarian"
+# cd "$SOURCES/hungarian/magyarispell-master" || exit
+# LC_ALL=C make myspell
+# cd ../../.. || exit
 
 echo "  low-german"
 cd "$SOURCES/low-german/dict_nds-master" || exit
@@ -412,6 +438,19 @@ if [ ! -e "nn" ]; then
 fi
 cd ../.. || exit
 
+if [ ! -e "$SOURCES/ukrainian/license" ]; then
+  echo "  ukrainian"
+  wget "https://raw.githubusercontent.com/brown-uk/dict_uk/master/LICENSE" -O "$SOURCES/ukrainian/license"
+  printf "  $(green "license")\n"
+fi
+
+if [ ! -e "$SOURCES/galician/hunspell-gl-master/gl_ES.aff" ]; then
+  echo "  galician"
+  wget "https://github.com/meixome/hunspell-gl/releases/download/18.07/gl_ES.aff" -O "$SOURCES/galician/hunspell-gl-master/gl_ES.aff"
+  wget "https://github.com/meixome/hunspell-gl/releases/download/18.07/gl_ES.dic" -O "$SOURCES/galician/hunspell-gl-master/gl_ES.dic"
+  printf "  $(green "aff and dic")\n"
+fi
+
 printf "$(bold "Made")!\n\n"
 
 #####################################################################
@@ -421,9 +460,9 @@ printf "$(bold "Made")!\n\n"
 printf "$(bold "Generating")...\n"
 
 generate "bg" "bulgarian" \
-  "spell/bg_BG.dic" "CP1251" \
-  "spell/bg_BG.aff" "CP1251" \
-  "LGPL-2.1" "README.txt" "UTF-8"
+  "OOo-full-pack-bg-4.3/bg_BG.dic" "CP1251" \
+  "OOo-full-pack-bg-4.3/bg_BG.aff" "CP1251" \
+  "(GPL-2.0 OR LGPL-2.1 OR MPL-1.1)" "OOo-full-pack-bg-4.3/README_spell.bulgarian" "CP1251"
 generate "br" "breton" \
   "br_FR.dic" "UTF-8" \
   "br_FR.aff" "UTF-8" \
@@ -504,46 +543,54 @@ generate "eu" "basque" \
   "eu_ES.dic" "UTF-8" \
   "eu_ES.aff" "UTF-8" \
   "GPL-2.0"
-generate "fo" "faroese" \
-  "fo_FO.dic" "ISO8859-1" \
-  "fo_FO.aff" "ISO8859-1" \
-  "(GPL-2.0 OR LGPL-2.1 OR MPL-1.1)" "LICENSE_en_US.txt" "UTF-8"
+generate "fa" "persian" \
+  "fa-IR.dic" "UTF-8" \
+  "fa-IR.aff" "UTF-8" \
+  "Apache-2.0" "README_fa_IR.txt" "UTF-8"
+# TODO: Stava is down.
+# generate "fo" "faroese" \
+#   "fo_FO.dic" "ISO8859-1" \
+#   "fo_FO.aff" "ISO8859-1" \
+#   "(GPL-2.0 OR LGPL-2.1 OR MPL-1.1)" "LICENSE_en_US.txt" "UTF-8"
+# French: use classic (“classique”) because the readme suggests so.
 generate "fr" "french" \
-  "fr-classique.dic" "UTF-8" \
-  "fr-classique.aff" "UTF-8" \
-  "MPL-2.0" "README_dict_fr.txt" "UTF-8"
+  "dictionaries/fr-classique.dic" "UTF-8" \
+  "dictionaries/fr-classique.aff" "UTF-8" \
+  "MPL-2.0" "dictionaries/README_dict_fr.txt" "UTF-8"
 generate "fur" "friulian" \
   "myspell-fur-12092005/fur_IT.dic" "ISO8859-1" \
   "myspell-fur-12092005/fur_IT.aff" "ISO8859-1" \
   "GPL-2.0" "myspell-fur-12092005/COPYING.txt" "ISO8859-1"
 generate "fy" "frisian" \
-  "fy_NL.dic" "CP1252" \
-  "fy_NL.aff" "CP1252" \
-  "GPL-3.0" "README" "UTF-8"
-generate "ga" "irish" \
-  "gaelspell-4.8/ga_IE.dic" "UTF-8" \
-  "gaelspell-4.8/ga_IE.aff" "UTF-8" \
-  "GPL-2.0" "gaelspell-4.8/LICENSES-en.txt" "UTF-8"
+  "frisian-master/generated/fy_NL.dic" "UTF-8" \
+  "frisian-master/generated/fy_NL.aff" "UTF-8" \
+  "GPL-3.0" "frisian-master/LICENSE" "UTF-8"
+# TODO: kscanne/gaelspell#2
+# generate "ga" "irish" \
+#   "gaelspell-5.0/ga_IE.dic" "UTF-8" \
+#   "gaelspell-5.0/ga_IE.aff" "UTF-8" \
+#   "GPL-2.0" "gaelspell-5.0/LICENSES-en.txt" "UTF-8"
 generate "gd" "gaelic" \
   "hunspell-gd-master/gd_GB.dic" "UTF-8" \
   "hunspell-gd-master/gd_GB.aff" "UTF-8" \
   "GPL-3.0" "hunspell-gd-master/README_gd_GB.txt" "UTF-8"
 generate "gl" "galician" \
-  "gl_ES.dic" "UTF-8" \
-  "gl_ES.aff" "UTF-8" \
-  "GPL-3.0" "license.txt" "UTF-8"
+  "hunspell-gl-master/gl_ES.dic" "UTF-8" \
+  "hunspell-gl-master/gl_ES.aff" "UTF-8" \
+  "GPL-3.0" "hunspell-gl-master/LICENSE" "UTF-8"
 generate "he" "hebrew" \
   "he.dic" "UTF-8" \
   "he.aff" "UTF-8" \
   "AGPL-3.0" "LICENSE" "UTF-8"
 generate "hr" "croatian" \
-  "hr_HR.dic" "ISO8859-2" \
-  "hr_HR.aff" "ISO8859-2" \
-  "(LGPL-2.1 OR SISSL)" "README_hr_HR.txt" "ISO8859-2"
-generate "hu" "hungarian" \
-  "hu_HU.dic" "ISO8859-2" \
-  "hu_HU.aff" "ISO8859-2" \
-  "(GPL-2.0 OR LGPL-2.1 OR MPL-1.1)" "README_hu_HU.txt" "UTF-8"
+  "hunspell-hr-master/hr_HR.dic" "UTF-8" \
+  "hunspell-hr-master/hr_HR.aff" "UTF-8" \
+  "(LGPL-2.1 OR SISSL)" "hunspell-hr-master/README_hr_HR.txt" "UTF-8"
+# TODO: laszlonemeth/magyarispell#9
+# generate "hu" "hungarian" \
+#   "hu_HU_u8_gen_alias.dic" "ISO8859-2" \
+#   "hu_HU_u8_gen_alias.aff" "ISO8859-2" \
+#   "(GPL-2.0 OR LGPL-2.1 OR MPL-1.1)" "README" "UTF-8"
 generate "hy-arevela" "armenian-eastern" \
   "hy_am_e_1940.dic" "UTF-8" \
   "hy_am_e_1940.aff" "UTF-8" \
@@ -568,10 +615,14 @@ generate "it" "italian" \
   "dictionaries/it_IT.dic" "UTF-8" \
   "dictionaries/it_IT.aff" "UTF-8" \
   "GPL-3.0" "dictionaries/README.txt" "UTF-8"
+generate "ka" "georgian" \
+  "ka_GE.spell-master/dictionaries/ka_GE.dic" "UTF-8" \
+  "ka_GE.spell-master/dictionaries/ka_GE.aff" "UTF-8" \
+  "MIT" "ka_GE.spell-master/LICENSE.mit" "UTF-8"
 generate "ko" "korean" \
-  "ko-aff-dic-0.6.2/ko.dic" "UTF-8" \
-  "ko-aff-dic-0.6.2/ko.aff" "UTF-8" \
-  "(GPL-2.0 OR LGPL-2.1 OR MPL-1.1)" "ko-aff-dic-0.6.2/LICENSE" "UTF-8"
+  "ko-aff-dic-0.7.1/ko.dic" "UTF-8" \
+  "ko-aff-dic-0.7.1/ko.aff" "UTF-8" \
+  "(GPL-2.0 OR LGPL-2.1 OR MPL-1.1)" "ko-aff-dic-0.7.1/LICENSE" "UTF-8"
 generate "la" "latin" \
   "la/universal/la.dic" "UTF-8" \
   "la/universal/la.aff" "UTF-8" \
@@ -625,9 +676,9 @@ generate "pl" "polish" \
   "pl_PL.aff" "ISO8859-2" \
   "(GPL-3.0 OR LGPL-3.0 OR MPL-2.0)" "README_en.txt" "UTF-8"
 generate "pt" "portuguese" \
-  "dictionaries/pt_PT.dic" "UTF-8" \
-  "dictionaries/pt_PT.aff" "UTF-8" \
-  "(GPL-2.0 OR LGPL-2.1 OR MPL-1.1)" "dictionaries/README_pt_PT.txt" "ISO8859-1"
+  "pt_PT.dic" "UTF-8" \
+  "pt_PT.aff" "UTF-8" \
+  "(GPL-2.0 OR LGPL-2.1 OR MPL-1.1)" "README_pt_PT.txt" "CP1252"
 generate "pt-BR" "portuguese-br" \
   "pt_BR.dic" "ISO8859-1" \
   "pt_BR.aff" "ISO8859-1" \
@@ -664,33 +715,29 @@ generate "sv" "swedish" \
   "sv_SE.dic" "UTF-8" \
   "sv_SE.aff" "UTF-8" \
   "LGPL-3.0" "LICENSE_en_US.txt" "UTF-8"
+generate "tk" "turkmen" \
+  "turkmen-spell-check-dictionary-master/tk_TM.dic" "UTF-8" \
+  "turkmen-spell-check-dictionary-master/tk_TM.aff" "UTF-8" \
+  "Apache-2.0" "turkmen-spell-check-dictionary-master/LICENSE" "UTF-8"
+generate "tlh" "klingon" \
+  "klingon-master/generated/tlh.dic" "UTF-8" \
+  "klingon-master/generated/tlh.aff" "UTF-8" \
+  "Apache-2.0" "klingon-master/LICENSE" "UTF-8"
+generate "tlh-Latn" "klingon" \
+  "klingon-master/generated/tlh_Latn.dic" "UTF-8" \
+  "klingon-master/generated/tlh_Latn.aff" "UTF-8" \
+  "Apache-2.0" "klingon-master/LICENSE" "UTF-8"
 generate "tr" "turkish" \
   "dictionaries/tr-TR.dic" "UTF-8" \
   "dictionaries/tr-TR.aff" "UTF-8" \
   "MIT"
 generate "uk" "ukrainian" \
-  "uk_UA/uk_UA.dic" "UTF-8" \
-  "uk_UA/uk_UA.aff" "UTF-8" \
-  "(GPL-2.0 OR LGPL-2.1 OR MPL-1.1)" "uk_UA/README_uk_UA.txt" "UTF-8"
+  "uk_UA.dic" "UTF-8" \
+  "uk_UA.aff" "UTF-8" \
+  "GPL-3.0" "LICENSE" "UTF-8"
 generate "vi" "vietnamese" \
   "dictionaries/vi_VN.dic" "UTF-8" \
   "dictionaries/vi_VN.aff" "UTF-8" \
   "GPL-2.0" "LICENSES-en.txt" "UTF-8"
 
 printf "$(bold "Generated")!\n\n"
-
-#####################################################################
-# FIX ###############################################################
-#####################################################################
-
-printf "$(bold "Fixing")...\n"
-
-printf "  hu"
-# Hack around the broken Hungarian affix file.
-if [ "$(head -n 1 "$DICTIONARIES/hu/index.aff")" = "AF 1263" ]; then
-  tail -n 23734 "$DICTIONARIES/hu/index.aff" > "$DICTIONARIES/hu/index-fixed.aff"
-  mv "$DICTIONARIES/hu/index-fixed.aff" "$DICTIONARIES/hu/index.aff"
-fi
-printf " $(green "✓")\n"
-
-printf "$(bold "Fixed")!\n\n"

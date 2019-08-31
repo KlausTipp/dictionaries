@@ -1,5 +1,5 @@
-80863
-&
+81391
+-
 1er/--
 1ers/--
 1re/--
@@ -58,6 +58,7 @@ ADP/L'D'Q'
 ADSL/L'D'Q'
 AFLP
 AFP/L'D'Q'
+AG
 AG/L'D'Q'
 AGRASC/L'D'Q'
 AIEA/L'D'Q'
@@ -102,6 +103,7 @@ Abdelkader/L'D'Q'
 Abdelkarim/L'D'Q'
 Abdelkrim/L'D'Q'
 Abdelli/L'D'Q'
+Abdelmalek/L'D'Q'
 Abdias/L'D'Q'
 Abdoul/L'D'Q'
 Abdoulaye/L'D'Q'
@@ -223,6 +225,7 @@ Akhenaton/L'D'Q'
 Aki/L'D'Q'
 Akira/L'D'Q'
 Akispace/L'D'Q'
+Akkad/L'D'Q'
 Al/L'D'Q'
 Al-Khawarizmi/L'D'Q'
 Al-Qaïda/D'Q'
@@ -274,6 +277,7 @@ Alès/L'D'Q'
 Alésia/L'D'Q'
 Alessandra/L'D'Q'
 Alessandro/L'D'Q'
+Alessia/L'D'Q'
 Alex/L'D'Q'
 Alexa/L'D'Q'
 Alexander/L'D'Q'
@@ -303,6 +307,7 @@ Alice/L'D'Q'
 Alicia/L'D'Q'
 Alida/L'D'Q'
 Aliénor/L'D'Q'
+Alighieri/L'D'Q'
 Aline/L'D'Q'
 Alioth/L'D'Q'
 Alison/L'D'Q'
@@ -374,6 +379,7 @@ Amiens/L'D'Q'
 Amiga/L'D'Q'
 Amilly/L'D'Q'
 Amina/L'D'Q'
+Aminata/L'D'Q'
 Amine/L'D'Q'
 Amir/L'D'Q'
 Amira/L'D'Q'
@@ -419,7 +425,6 @@ Andreï/L'D'Q'
 Andrej/L'D'Q'
 Andrésy/L'D'Q'
 Andrew/L'D'Q'
-Android/D'Q'
 Android/D'Q'--
 Andromède/L'D'Q'
 Andrzej/L'D'Q'
@@ -602,6 +607,7 @@ Artois/L'D'
 Arturo/L'D'Q'
 Aruba/L'D'Q'
 Arvalis/L'D'Q'
+Ascalon/L'D'Q'
 Ascq/L'D'Q'
 Asgard/L'D'Q'
 Ashleigh/L'D'Q'
@@ -618,6 +624,7 @@ Asse/L'D'Q'
 Assenede/L'D'Q'
 Assouan/L'D'Q'
 Assourbanipal/L'D'Q'
+Assur/L'D'Q'
 Assyrie/L'D'
 Astana/L'D'Q'
 Astier/L'D'Q'
@@ -628,6 +635,7 @@ Asturies
 Asunción/L'D'Q'
 Asus/L'D'Q'
 At
+Atacama/L'D'Q'
 Atahualpa/L'D'Q'
 Atalante/L'D'Q'
 Atari/L'D'Q'
@@ -643,6 +651,7 @@ Atlanta/L'D'Q'
 Atlantide/L'
 Atlantique/L'
 Atomium/L'
+Atoum/L'D'Q'
 Atropos/L'D'Q'
 Attila/L'D'Q'
 Aubagne/L'D'Q'
@@ -945,6 +954,7 @@ Bercy
 Bérenger
 Bérengère
 Bérénice
+Beretta
 Bérézina
 Bergen
 Bergerac
@@ -1190,9 +1200,9 @@ Brahim
 Brahma
 Brahmapoutre
 Brahms
-Braine-l'Alleud
 Braine-le-Château
 Braine-le-Comte
+Braine-l'Alleud
 Brakel
 Brand
 Brandon
@@ -1244,6 +1254,7 @@ Brive-la-Gaillarde
 Brno
 Broadway
 Broca
+Brocéliande
 Broglie
 Broïda
 Bron
@@ -1299,10 +1310,10 @@ CA
 CAC
 CAC40
 CAD/--
+CAF
 CAN
 CAO
 CAP
-CAPES
 CC
 CC-BY
 CC-BY-NC
@@ -1410,6 +1421,7 @@ Caluire
 Caluire-et-Cuire
 Calvados
 Calvin
+Calypso
 Cam
 Camargue
 Cambacérès
@@ -1428,6 +1440,7 @@ Campanie
 Campbell
 Campine
 Camus
+Canaan
 Canada
 Canaries
 Canaveral
@@ -1447,6 +1460,7 @@ Cantor
 Canyon
 Cap
 Cap-Vert
+Capes
 Capesterre-Belle-Eau
 Capet
 Capitale-Nationale
@@ -1502,7 +1516,6 @@ Casimir-Perier
 Caspienne
 Cassandra
 Cassandre
-Casseurs_Flowters
 Cassidy
 Cassini
 Cassiopée
@@ -1510,7 +1523,6 @@ Castafolte
 Castanet-Tolosan
 Castelnaudary
 Castelnau-le-Lez
-Castelsarrasin
 Castelsarrasin
 Casterman
 Castille
@@ -1553,6 +1565,7 @@ Centre-du-Québec
 Cérès
 Cergy
 Cernay
+Cernunnos
 Cerqual
 Cervantès
 Césaire
@@ -1571,6 +1584,7 @@ Chabeuil
 Chablais
 Chad
 Chaillot
+Chaïma
 Chalabaev
 Chalcédoine
 Chaldée
@@ -1636,10 +1650,10 @@ Chastel-Arnaud
 Château-Gontier
 Château-Thierry
 Châteaubriant
-Château-d'Œx
-Château-d'Olonne
 Châteaudouble
 Châteaudun
+Château-d'Œx
+Château-d'Olonne
 Châteauguay
 Châteauneuf-du-Pape
 Châteauneuf-les-Martigues
@@ -1711,6 +1725,7 @@ Chorem
 Chostakovitch
 Chris
 Christa
+Christchurch
 Christel
 Christèle
 Christelle
@@ -1741,6 +1756,7 @@ Cimade
 Cincinnati
 Cindy
 Ciney
+Cioran
 Ciotat
 Circassie
 Circé
@@ -1821,6 +1837,7 @@ Colombie-Britannique
 Colombo
 Colomiers
 Colorado
+Colt
 Columbia
 Columbus
 Combs-la-Ville
@@ -1855,6 +1872,8 @@ Constant
 Constantin
 Constantine
 Constantinople
+Consuel
+Conti
 Cook
 Cooper
 Copenhague
@@ -1904,6 +1923,7 @@ Couëron
 Couesnon
 Coulomb
 Coulommiers
+Coumassie
 Courbet
 Courbevoie
 Courcelles
@@ -1930,7 +1950,6 @@ Crau
 Crécy-la-Chapelle
 Creil
 Crépy-en-Valois
-Crest
 Crest
 Crésus
 Crète
@@ -1991,7 +2010,6 @@ DGSE
 DGSI
 DHCP
 DHEA
-D'Holbach
 DJ
 DM
 DNS
@@ -2013,6 +2031,7 @@ Dacia
 Dacie
 Dadant
 Daech
+Dagda
 Daghestan
 Dagobert
 Daguerre
@@ -2038,9 +2057,11 @@ Damase
 Damasio
 Damian
 Damien
+Damiette
 Dammarie-les-Lys
 Damme
 Damoclès
+Damon
 Dampmart
 Dan
 Dana
@@ -2070,6 +2091,7 @@ Daria
 Dario
 Darius
 Darjeeling
+Darlene
 Darren
 Darryl
 Darwin
@@ -2117,6 +2139,7 @@ Dell
 Délos
 Delphes
 Delphine
+Deluxe
 Delvaux
 Delwin
 Demerlé
@@ -2134,7 +2157,6 @@ Denoël
 Denver
 Derek
 Derib
-Derrida
 Derrida
 Desargues
 Desbureaux
@@ -2340,6 +2362,7 @@ Dʳˢ
 Dʳᵉ
 Dʳᵉˢ
 Dᴏꜱꜱᴍᴀɴɴ
+D'Holbach
 ECS/L'D'Q'
 EDF/L'D'Q'
 EEPROM/L'D'Q'
@@ -2399,6 +2422,8 @@ Effinergie
 Éghezée/L'D'Q'
 Églantine/L'D'Q'
 Égypte/L'D'
+Ehlers-Danlos
+Ehpad/L'D'Q'
 Ehrenpreis/L'D'Q'
 Ehresmann/L'D'Q'
 Eibit/||--
@@ -2442,6 +2467,7 @@ Eliott/L'D'Q'
 Eliza/L'D'Q'
 Elizabeth/L'D'Q'
 Ellen/L'D'Q'
+Elliot/L'D'Q'
 Elliut/L'D'Q'
 Elme/L'D'Q'
 Élodie/L'D'Q'
@@ -2475,13 +2501,13 @@ Emmy/L'D'Q'
 Empédocle/L'D'Q'
 Encelade/L'D'Q'
 Énée/L'D'Q'
-Énergie_Partagée
 Engels/L'D'Q'
 Enghien/L'D'Q'
 Enghien-les-Bains/L'D'Q'
 Engie/D'Q'
 Englert/L'D'Q'
 Enguerrand/L'D'Q'
+Enlil/L'D'Q'
 Enora/L'D'Q'
 Enrico/L'D'Q'
 Enrique/L'D'Q'
@@ -2499,6 +2525,7 @@ Eo/||--
 Épinay-sous-Sénart/L'D'Q'
 Épinay-sur-Seine/L'D'Q'
 Épire/L'D'
+Épona
 Eppendorf/L'D'Q'
 Epstein/L'D'Q'
 Équateur/L'D'
@@ -2508,6 +2535,7 @@ Epstein/L'D'Q'
 Érasme/L'D'Q'
 Érato/L'D'Q'
 Ératosthène/L'D'Q'
+Ereshkigal/L'D'Q'
 Erevan/L'D'Q'
 Erfurt/L'D'Q'
 Ergodis/L'D'Q'
@@ -2528,6 +2556,7 @@ Ernst/L'D'Q'
 Éros/L'D'Q'
 Erpe-Mere/L'D'Q'
 Erwan/L'D'Q'
+Erwin/L'D'Q'
 Érythrée/L'D'
 Ésaïe/L'D'Q'
 Escaut/L'
@@ -2567,8 +2596,6 @@ Etan/L'D'Q'
 États-nations/D'Q'
 Ethan/L'D'Q'
 Ethel/L'D'Q'
-Ethel/L'D'Q'
-Ethereum
 Ethereum/L'D'Q'
 Ethernet/L'D'Q'
 Etherpad/L'D'Q'
@@ -2682,6 +2709,7 @@ FairPhone
 Fairbanks
 Faisalabad
 Faith
+Faïza
 Falkland
 Fallières
 Fallope
@@ -2858,6 +2886,7 @@ Françafrique
 France
 Francesca
 Francesco
+Francette
 Francfort
 Francfort-sur-le-Main
 Franche-Comté
@@ -2908,6 +2937,7 @@ Freyming-Merlebach
 Freymuth
 Fribourg
 Frichemesnil
+Frida
 Friedland
 Friedman
 Friedmann
@@ -2917,7 +2947,6 @@ Frioul
 Fritz
 Frobenius
 Fromentières
-Frontenac
 Frontenac
 Frontignan
 Frounze
@@ -2960,6 +2989,7 @@ Gaborone
 Gabriel
 Gabriella
 Gabrielle
+Gaby
 Gaël
 Gaëlle
 Gaétan
@@ -2997,6 +3027,7 @@ Gamecube
 Gand
 Gandhi
 Gandi
+Ganesh
 Gange
 Ganshoren
 Gansu
@@ -3020,7 +3051,6 @@ Gary
 Gascogne
 Gaspard
 Gaspésie
-Gaspésie–Îles-de-la-Madeleine
 Gaspode
 Gastinel
 Gaston
@@ -3046,6 +3076,7 @@ Gaziantep
 Gazprom
 Gbit/||--
 Gdansk
+Geb
 Gédéon
 Geel
 Geiger
@@ -3106,6 +3137,7 @@ Gibbs
 Gibit/||--
 Gibraltar
 Gide
+Gideon
 Gien
 Gif-sur-Yvette
 Gijón
@@ -3148,6 +3180,7 @@ Glaris
 Glasgow
 Glen
 Glenn
+Glock
 Gluck
 Gnis
 GnuSocial
@@ -3164,7 +3197,6 @@ Gogh
 Gogol
 Golan
 Goldbach
-Golden_Show
 Goldoni
 Golgi
 Golgotha
@@ -3232,6 +3264,7 @@ Grégory
 Grenade
 Grenelle
 Grenoble
+Greta
 Gretchen
 Grevisse
 Grévy
@@ -3240,6 +3273,7 @@ Grieg
 Grignan
 Grignard
 Grigny
+Grigori
 Grigory
 Grimbergen
 Grimm
@@ -3444,6 +3478,7 @@ Heather/L'D'Q'
 Heaviside
 Hebei
 Hébrides
+Hébron/L'D'Q'
 Hécate/L'D'Q'
 Hechtel-Eksel/L'D'Q'
 Hecke
@@ -3459,6 +3494,7 @@ Heinrich/L'D'Q'
 Heisenberg/L'D'Q'
 Heist-op-den-Berg
 Helen/L'D'Q'
+Helena
 Héléna/L'D'Q'
 Hélène/L'D'Q'
 Helianthus
@@ -3483,7 +3519,9 @@ Hénin-Beaumont/L'D'Q'
 Hennebont/L'D'Q'
 Hénoch/L'D'Q'
 Henri/L'D'Q'
+Henrietta/L'D'Q'
 Henriette/L'D'Q'
+Henrik/L'D'Q'
 Henrique/L'D'Q'
 Henry
 Héphaïstos/L'D'Q'
@@ -3505,7 +3543,6 @@ Hermine/L'D'Q'
 Hermione/L'D'Q'
 Hermite/L'D'Q'
 Hernando/L'D'Q'
-Hero_Corp
 Hérode/L'D'Q'
 Hérodote/L'D'Q'
 Hérouville-Saint-Clair/L'D'Q'
@@ -3542,10 +3579,12 @@ Hillary/L'D'Q'
 Himalaya/L'
 Himmler/L'D'Q'
 Hindenburg/L'D'Q'
+Hindustan/L'
 Hippocrate/L'D'Q'
 Hippolyte/L'D'Q'
 Hiram/L'D'Q'
 Hiro/L'D'Q'
+Hiroshi/L'D'Q'
 Hiroshige
 Hiroshima
 Hirson/L'D'Q'
@@ -3610,6 +3649,7 @@ Houston
 Houthalen-Helchteren
 Houthulst/L'D'Q'
 Howard
+Huawei/L'D'Q'
 Hubble
 Hubei
 Hubert/L'D'Q'
@@ -3623,6 +3663,7 @@ Hugo/L'D'Q'
 Hugues/L'D'Q'
 Huguette
 Hulshout/L'D'Q'
+Humbert/L'D'Q'
 Hume
 Hun/S.
 Hunan
@@ -3635,6 +3676,7 @@ Husserl
 Huxley/L'D'Q'
 Huy
 Huygens
+Huysmans/L'D'Q'
 Hyacinthe/L'D'Q'
 Hyades
 Hyderabad/L'D'Q'
@@ -3659,10 +3701,14 @@ II/--
 III/--
 IIIe/--
 IIIᵉ/--
+IId
 IIde/--
 IIe/--
 IInd/--
+IIᵈ
+IIᵈᵉ
 IIᵉ/--
+IIⁿᵈ/--
 IMAP/L'D'Q'
 IMAPS/L'D'Q'
 IMEI/L'D'Q'
@@ -3733,6 +3779,7 @@ Illzach/L'D'Q'
 Ilya/L'D'Q'
 Ilyas/L'D'Q'
 Impress/L'D'Q'
+Inanna/L'D'Q'
 Inaya/L'D'Q'
 Inde/S*
 Indiana/L'D'
@@ -3832,7 +3879,6 @@ Izushi
 Iʳᵉ/--
 Iᵉʳ/--
 J/U.||--
-J.-C
 JJSDN
 JMeter
 JO
@@ -4024,7 +4070,9 @@ Joué-lès-Tours
 Joule
 Joumond
 Jourdain
+Joy
 Joyce
+J-pop/S.
 Juan
 Juana
 Juanita
@@ -4043,6 +4091,7 @@ Julian
 Juliana
 Julianna
 Julianne
+Juliano
 Julie
 Julien
 Julienne
@@ -4082,6 +4131,7 @@ Kac
 Kacey
 Kader
 Kadiogo
+Kaduna
 Kadígia
 Kafka
 Kahan
@@ -4095,6 +4145,7 @@ Kalman
 Kalmthout
 Kaluza
 Kamal
+Kâma-sûtra
 Kamel
 Kamil
 Kampala
@@ -4110,12 +4161,12 @@ Kant
 Kapellen
 Kara
 Karachi
+Karel
 Karen
 Kari
 Karim
 Karima
 Karina
-Karine
 Karine
 Karl
 Karlsruhe
@@ -4157,6 +4208,7 @@ Kayla
 Kaylee
 Kazakhstan
 Kazan
+Keats
 Keeling
 Keerbergen
 Kehlen
@@ -4199,6 +4251,7 @@ Khartoum
 Kheira
 Khéops
 Khéphren
+Khépri
 Khintchine
 Khomeini
 Khrouchtchev
@@ -4247,7 +4300,6 @@ Klein
 Klimt
 Klitzing
 Klondike
-K'nex
 Knokke-Heist
 Knossos
 Ko/||--
@@ -4281,6 +4333,7 @@ Koursk
 Kovalevskaïa
 Koweït
 Kościuszko
+K-pop/S.
 Kraainem
 Krebs
 Krefeld
@@ -4296,6 +4349,7 @@ Kristin
 Kristina
 Kristine
 Kristof
+Kristoffer
 Kronecker
 Kropotkine
 Kruibeke
@@ -4319,6 +4373,7 @@ Kylie
 Kyllian
 Kyoto
 Kyushu
+K'nex
 L/U.||--
 LCD
 LED
@@ -4427,7 +4482,6 @@ Lavoisier
 Lawrence
 Laxou
 Lazare
-Le_Bris
 Léa
 Leah
 Léandre
@@ -4488,7 +4542,6 @@ Léopoldine
 Leopoldt
 Léopoldville
 Leroy
-Les_Vigneaux
 Lesage
 Lesbos
 Lesieur
@@ -4603,6 +4656,7 @@ Lizbeth
 Lizzie
 Ljubljana
 Llewella
+Llewellyn
 Lloyd
 Loan
 Loane
@@ -4662,6 +4716,7 @@ Lorraine
 Los
 Lot
 Lot-et-Garonne
+Loth
 Lothaire
 Lotharingie
 Lou
@@ -4686,10 +4741,10 @@ Louvain-la-Neuve
 Louvière
 Louviers
 Louvre
+Louxor
 Love
 Lovecraft
 Lovelace
-Lovely_Rita
 Lovćen
 Loyola
 Loyre
@@ -4756,7 +4811,6 @@ Luther
 Luthringer
 Luxembourg
 Lyapunov
-Lyapunov
 Lycaonie
 Lycie
 Lydia
@@ -4767,6 +4821,7 @@ Lyme
 Lyne
 Lynette
 Lynn
+Lynne
 Lyon
 Lyse
 Lys-lez-Lannoy
@@ -4780,6 +4835,7 @@ M6
 MADOI
 MIPAW
 MIT
+MJC
 MM
 MODBUS
 MOOC
@@ -4803,6 +4859,7 @@ Mach
 Macha
 Machelen
 Machhad
+Macif
 Mackenzie
 Maclaurin
 Mâcon
@@ -4810,6 +4867,7 @@ Mâconnais
 Macron
 Madagascar
 Maddie
+Madelaine
 Madeleine
 Madeline
 Madras
@@ -4950,6 +5008,7 @@ Marcus
 Marcy
 Mardouk
 Marek
+Marème
 Margaret
 Margaux
 Margherita
@@ -4959,6 +5018,8 @@ Margot
 Marguerite
 Maria
 Mariam
+Mariame
+Mariangela
 Marianne
 Mariannes
 Mariano
@@ -4991,6 +5052,7 @@ Marie-Pierre
 Marie-Rose
 Marie-Thérèse
 Marielle
+Mariem
 Mariette
 Marignan
 Marignana
@@ -5018,7 +5080,6 @@ Markov
 Markus
 Marla
 Marlène
-Marly
 Marly
 Marly-le-Roi
 Marmande
@@ -5069,6 +5130,7 @@ Maserati
 Maslow
 Mason
 Massachusetts
+Massada
 Masséna
 Massenet
 Massimo
@@ -5083,7 +5145,6 @@ Matheson
 Mathias
 Mathieu
 Mathilda
-Mathilde
 Mathilde
 Mathis
 Mathurin
@@ -5166,6 +5227,7 @@ Meiji
 Meise
 Meknès
 Mékong
+Mel
 Melaine
 Mélanésie
 Melania
@@ -5213,6 +5275,7 @@ Merelbeke
 Méric
 Méricourt
 Mérida
+Meriem
 Mérignac
 Mérimée
 Merkel
@@ -5221,8 +5284,10 @@ Merlin
 Méru
 Meryl
 Mésie
+Mésoamérique
 Mésopotamie
 Messaline
+Messaoud
 Messer
 Messine
 Météo-France
@@ -5286,6 +5351,7 @@ Millerand
 Millman
 Milne
 Milo
+Milos
 Milton
 Milwaukee
 Mimas
@@ -5326,7 +5392,6 @@ Mitry-Mory
 Mitsubishi
 Mittelhausbergen
 Mitterrand
-Mix_Bizarre
 Miyabi
 Mlle/S.
 Mme/S.
@@ -5435,6 +5500,7 @@ Moravie
 Morbihan
 Mordell
 Mordelles
+Mordred
 More
 Moreau
 Morel
@@ -5527,16 +5593,16 @@ Mᵍʳˢ
 Mᵐᵉ
 Mᵐᵉˢ
 N/U.||--
-NASA
 NDLR
 NDT
-N'Djamena
 NEC
 NF
 NIRS
 NSA
 Nabil
 Nabuchodonosor
+Nacer
+Nacim
 Nacira
 Nadège
 Nadia
@@ -5549,6 +5615,7 @@ Nagata
 Nagoya
 Nagy
 Nahum
+Naïma
 Naimark
 Nairobi
 Najat
@@ -5564,9 +5631,11 @@ Nanterre
 Nantes
 Naomi
 Naples
+Naplouse
 Napoléon
 Narbonne
 Narcisse
+Nasa
 Nasdaq
 Nash
 Nashville
@@ -5604,11 +5673,13 @@ Neel
 Néel
 Neerpelt
 Néfertiti
+Néfertoum
 Néguev
 Néhémie
 Nehru
 Neil
 Neila
+Neith
 Nelly
 Nelson
 Némésis
@@ -5616,9 +5687,11 @@ Nemours
 Neo
 Néo-Versailles
 Népal
+Nephtys
 Neptune
 Néréide
 Néréide/S.
+Nergal
 Néron
 Nerval
 Ness
@@ -5684,11 +5757,13 @@ Nîmes
 Nina
 Nine
 Ningxia
+Ninhursag
 Ninive
 Nino
 Ninon
 Ninove
 Nintendo
+Ninurta
 Niort
 Nissan
 Nitot
@@ -5738,9 +5813,11 @@ Notre-Dame
 Nottingham
 Nouakchott
 Nouméa
+Noun
 Nour
 Noura
 Noureddine
+Nout
 Nouveau-Brunswick
 Nouveau-Mexique
 Nouveau-Québec
@@ -5771,6 +5848,7 @@ Nyarlathotep
 Nyons
 Nyquist
 Nyx
+N'Djamena
 OCDE/L'D'Q'
 OCaml/L'D'Q'
 ODF/L'D'Q'
@@ -5785,10 +5863,8 @@ OMS/L'D'Q'
 ONEMA
 ONERA/L'D'Q'
 ONG/L'D'Q'
-ONU/L'D'Q'
 OPA/L'D'Q'
 OPE/L'D'Q'
-OPEP/L'D'Q'
 OPR/L'D'Q'
 OPV/L'D'Q'
 ORL/L'D'Q'
@@ -5796,7 +5872,6 @@ OS/L'D'Q'
 OSH/L'D'Q'
 OSS/L'D'Q'
 OStatus
-OTAN/L'D'Q'
 OVH/L'D'Q'
 Oakland/L'D'Q'
 Ob/L'D'Q'
@@ -5822,7 +5897,6 @@ Odin/L'D'Q'
 Odon/L'D'Q'
 Oe/||--
 Offenbach/L'D'Q'
-Offenbach/L'D'Q'
 Ohio/L'D'
 Ohm/L'D'Q'
 Oignies/L'D'Q'
@@ -5832,7 +5906,6 @@ Oissel/L'D'Q'
 Oklahoma/L'D'
 Olaf/L'D'Q'
 Oldham/L'D'Q'
-Olea_Medical
 Oleg/L'D'Q'
 Olen/L'D'Q'
 Oléron/L'D'Q'
@@ -5853,9 +5926,9 @@ Oman/L'D'Q'
 Omar/L'D'Q'
 Ombrie/L'
 Omdourman/L'D'Q'
-Omeyyade/S*
 Omsk/L'D'Q'
 Ontario/L'
+Onu/L'D'Q'
 Oort/L'D'Q'
 Oosterzele/L'D'Q'
 Oostkamp/L'D'Q'
@@ -5863,6 +5936,7 @@ Opel/L'D'Q'
 OpenBSD
 OpenOffice/L'D'Q'
 OpenStreetMap/L'D'Q'
+Opep/L'D'Q'
 Opglabbeek/L'D'Q'
 Ophélie/L'D'Q'
 Oppenheimer/L'D'Q'
@@ -5876,6 +5950,7 @@ Oregon/L'D'
 Orekit/L'D'Q'
 Oren/L'D'Q'
 Orénoque/L'
+Oriana/L'D'Q'
 Oriane/L'D'Q'
 Origène/L'D'Q'
 Origné/L'D'Q'
@@ -5895,6 +5970,7 @@ Orwell/L'D'Q'
 Oryanne/L'D'Q'
 Osaka/L'D'Q'
 Oscar/L'D'Q'
+Oshogbo/L'D'Q'
 Osiris/L'D'Q'
 Oslo/L'D'Q'
 Osny/L'D'Q'
@@ -5904,6 +5980,7 @@ Ostende/L'D'Q'
 Ostie/L'D'Q'
 Ostrava/L'D'Q'
 Ostwald/L'D'Q'
+Otan/L'D'Q'
 Othe/L'D'
 Othello/L'D'Q'
 Othman/L'D'Q'
@@ -5937,7 +6014,6 @@ Owen/L'D'Q'
 OwnCloud
 Oxfam/L'D'Q'
 Oxford/L'D'Q'
-Oyonnax/L'D'Q'
 Oyonnax/L'D'Q'
 Ozog/L'D'Q'
 Ozoir-la-Ferrière/L'D'Q'
@@ -6009,6 +6085,7 @@ Papeete
 Papouasie
 Papouasie-Nouvelle-Guinée
 Pâques
+Paquita
 Paracelse
 Paraguay
 Paramaribo
@@ -6324,6 +6401,7 @@ Princeton
 Prisca
 Priscilla
 Priscille
+Priscillia
 Pristina
 Pristy
 Privas
@@ -6344,6 +6422,7 @@ Provins
 Proxilio
 Prudence
 Prusse
+Ptah
 Ptolémée
 PubSubHubbub
 Publicis
@@ -6394,6 +6473,7 @@ Quintilien
 Quirinal
 Quito
 Qumran
+Qumrân
 R/||--
 RAGT
 RAM
@@ -6506,6 +6586,7 @@ Rembrandt
 Remi
 Rémi
 Remich
+Remington
 Remire-Montjoly
 Remus
 Rémy
@@ -6569,6 +6650,7 @@ Riehen
 Riemann
 Riemst
 Riesz
+Rig-Véda
 Riga
 Rigaud
 Rigel
@@ -6594,8 +6676,6 @@ Rivière-Salée
 Rixensart
 Rixheim
 Riyad
-R'lyeh
-R'n'B
 Roanne
 Rob
 Robert
@@ -6604,7 +6684,6 @@ Roberte
 Roberto
 Roberval
 Robespierre
-Robin
 Robin
 Robinson
 Roch
@@ -6629,6 +6708,7 @@ Roissy
 Roissy-en-Brie
 Rokhlin
 Roland
+Roland-Garros
 Rolande
 Rolando
 Rolle
@@ -6672,6 +6752,7 @@ Roselyne
 Roselyse
 Rosemonde
 Rosetta
+Rosie
 Rosine
 Rosita
 Rosny-sous-Bois
@@ -6736,11 +6817,14 @@ Rwanda
 Ryan
 Ryanair
 Ryxeo
+R'lyeh
+R'n'B
 S/U.||--
 SA
 SADT
 SAP
 SARL
+SAV
 SCIC
 SCOT
 SCSI
@@ -6748,14 +6832,11 @@ SDF
 SDTAN
 SEO
 SEPA
-SEPA
 SF
 SFINX
 SFR
 SIG
 SILL
-SIRET
-SMIC
 SMS
 SMTP
 SNCF
@@ -6774,6 +6855,7 @@ STMicroelectronics
 Saab
 Saad
 Sabatier
+Sabina
 Sabine
 Sables-d'Olonne
 Sablé-sur-Sarthe
@@ -6786,7 +6868,6 @@ Safi
 Safia
 Sagan
 Saguenay
-Saguenay–Lac-Saint-Jean
 Sahara
 Saïd
 Saïda
@@ -6805,7 +6886,6 @@ Saint-Brice-sous-Forêt
 Saint-Brieuc
 Saint-Bruno-de-Montarville
 Saint-Chamond
-Saint-Claude
 Saint-Claude
 Saint-Cloud
 Saint-Colomban-des-Villards
@@ -6870,8 +6950,8 @@ Saint-Marin
 Saint-Martin
 Saint-Martin-Boulogne
 Saint-Martin-Petit
-Saint-Martin-d'Hères
 Saint-Martin-de-Crau
+Saint-Martin-d'Hères
 Saint-Maur-des-Fossés
 Saint-Maurice
 Saint-Max
@@ -7081,7 +7161,6 @@ Scipion
 Scott
 Scoville
 Scrameustache/S.
-Scred_TV
 Scudéry
 Scylla
 SeaMonkey
@@ -7104,6 +7183,7 @@ Seine
 Seine-Maritime
 Seine-Saint-Denis
 Seine-et-Marne
+Sekhmet
 Selena
 Séléna
 Sélène
@@ -7190,6 +7270,7 @@ Shimura
 Shirley
 Shiva
 Shoah
+Shou
 Shub-Niggurath
 Shuttleworth
 Siam
@@ -7198,6 +7279,7 @@ Sibylle
 Sichuan
 Sicile
 Siddhartha
+Sidi
 Sidney
 Sidoine
 Sidon
@@ -7236,7 +7318,9 @@ Simpson
 Sinaï
 Singapour
 Sin-le-Noble
+Siobhan
 Sion
+Siret
 Sirius
 Sisimiut
 Sisyphe
@@ -7248,6 +7332,7 @@ Slimane
 Slimane-Baptiste
 Slovaquie
 Slovénie
+Smic
 Smith
 Smolensk
 Snoop
@@ -7332,7 +7417,6 @@ Staline
 Stalingrad
 Stallman
 Stan
-Standard_de_Liège
 Standford
 Stanford
 Stanislas
@@ -7478,6 +7562,7 @@ Tain-l'Hermitage
 Taipei
 Taïwan
 Taiyuan
+Takashi
 Takeshi
 Talant
 Talence
@@ -7500,6 +7585,7 @@ Tanya
 Tanzanie
 Tao
 Tara
+Taranis
 Tarare
 Tarascon
 Tarascon
@@ -7538,6 +7624,7 @@ Tchétchénie
 Ted
 Teddy
 Tedrick
+Tefnout
 Tegucigalpa
 Téhéran
 Teichmüller
@@ -7578,6 +7665,7 @@ Tessin
 Teste-de-Buch
 Téthys
 Tétouan
+Teutatès
 Texas
 Tezuka
 Thaddée
@@ -7756,6 +7844,7 @@ Tremelo
 Trentin-Haut-Adige
 Très-Haut
 Trevor
+Trianon
 Tricia
 Triel-sur-Seine
 Trieste
@@ -7766,6 +7855,7 @@ Tripoli
 Triptolème
 Trish
 Tristan
+Trocadéro
 Troie
 Trois-Rivières
 Tronel
@@ -7818,12 +7908,10 @@ UE/L'
 UEM
 ULM/L'D'Q'
 UMTS/L'D'
-UNIX/D'Q'
 UPJV/L'D'Q'
 URCA/L'D'Q'
 URL/L'D'Q'
 URSS/L'D'
-URSSAF/L'D'Q'
 US
 USA
 USB/L'D'Q'
@@ -7850,14 +7938,17 @@ Ungava/L'D'
 Unicef/L'D'Q'
 Unicode/L'D'
 Unilever/L'D'Q'
+Unix/D'Q'
 Upie
 Ur/L'D'Q'
 Uranus/L'D'Q'
 Urbain/L'D'Q'
 Uri/L'D'
+Urssaf/L'D'Q'
 Ursula/L'D'Q'
 Ursule/L'D'Q'
 Uruguay/L'D'
+Uruk/L'D'Q'
 Ürümqi
 Ushuaïa/L'D'Q'
 Ussel/L'D'Q'
@@ -7896,10 +7987,10 @@ Vahan
 Vaires-sur-Marne
 Valais
 Valbonne
-Val-d'Oise
-Val-d'Or
 Val-de-Marne
 Val-de-Reuil
+Val-d'Oise
+Val-d'Or
 Valence
 Valenciennes
 Valentigney
@@ -7966,6 +8057,7 @@ Velay
 Vélizy-Villacoublay
 Velázquez
 Vence
+Venceslas
 Vendée
 Vendenheim
 Vendôme
@@ -8013,6 +8105,7 @@ Vétérini
 Vexin
 Veyrier
 Vialle
+Vic
 Vichy
 Vicki
 Vicky
@@ -8073,6 +8166,7 @@ Vinci
 Vinciane
 Vinsobres
 Violaine
+Violetta
 Violette
 Viollet-le-Duc
 Violy
@@ -8120,6 +8214,7 @@ Volvo
 Vosges
 Vosselaar
 Vries
+Vuitton
 Vve/S.
 Vyasa
 Vᵉ/--
@@ -8136,6 +8231,8 @@ Wadowice
 Waerden
 Wagner
 Wagram
+Wahib
+Wahiba
 Walcourt
 Waldo
 Walhalla
@@ -8241,9 +8338,11 @@ Willie
 Willy
 Wilma
 Wilson
+Wimbledon
 Windhoek
 Windows
 Wingene
+Winnie
 Winnipeg
 Winterthur
 Wirsung
@@ -8400,9 +8499,9 @@ Xenia
 Xénophane
 Xénophon
 Xerxès
-Xi'an
 Xining
 Xinjiang
+Xi'an
 Xᵉ/--
 YHWH
 Yacine
@@ -8470,6 +8569,7 @@ Yseult/L'D'Q'
 Yucatán
 Yudhishthira/L'D'Q'
 Yukon
+Yule/L'D'Q'
 Yunnan
 Yutz/L'D'Q'
 Yvain/L'D'Q'
@@ -9037,7 +9137,6 @@ accomplir/f4p+
 accomplissement/S*
 accon/S*
 acconage/S*
-acconier/S*
 acconière/F*
 accoquiner/a4p+
 accord/S*
@@ -9049,6 +9148,7 @@ accordement/S*
 accordéon/S*
 accordéoniste/S*
 accorder/a4p+
+accorderie/S*
 accordeuse/F*
 accordoir/S*
 accore/S*
@@ -9272,7 +9372,6 @@ acomat/S*
 acompte/S*
 acon/S*
 aconage/S*
-aconier/S*
 aconière/F*
 aconit/S*
 aconitine/S*
@@ -9348,6 +9447,7 @@ acrophobie/S*
 acropole/S*
 acrosine/S*
 acrosome/S*
+acrosomiale/W*
 acrosomique/S*
 acrosport/S*
 acrostiche/S*
@@ -9408,6 +9508,7 @@ activeur/S*
 activisme/S*
 activiste/S*
 activité/S*
+actorat/S*
 actrice/F*
 actu/S*
 actuaire/S*
@@ -9451,6 +9552,7 @@ adaptation/S*
 adaptative/F*
 adaptatrice/F*
 adapter/a4p+
+adatome/S*
 addax/L'D'Q'
 addenda/L'D'Q'
 addenda/S*
@@ -9966,10 +10068,17 @@ afro-asiatique/S*
 afrobeat/S*
 afro-beat/S*
 afro-brésilienne/F*
+afrocentricité/S*
+afrocentrisme/S*
+afrocentriste/S*
 afro-cubaine/F*
+afrodescendante/F*
 afroféminisme/S*
 afroféministe/S*
+afropéenne/F*
+afrophobie/S*
 afrorock/S*
+after/S*
 after-shave/L'D'Q'
 aftershave/S*
 agaçante/F*
@@ -10010,6 +10119,7 @@ agavé/S*
 age/S*
 âge/S*
 âgée/F*
+agélaste/S*
 agenaise/F*
 agence/S*
 agencement/S*
@@ -10066,6 +10176,7 @@ agitato/D'Q'
 agitatrice/F*
 agitée/F*
 agiter/a4p+
+agit-prop/L'D'Q'
 aglossa/S*
 aglycone/S*
 aglyphe/S*
@@ -10312,6 +10423,7 @@ aimantin/S*
 aimantine/F*
 aimée/F*
 aimer/a4p+
+aindinoise/F*
 aine/S*
 aînée/F*
 aînesse/S*
@@ -10855,6 +10967,7 @@ althæa/S*
 althéa/S*
 altière/F*
 altièrement/D'Q'
+altiligérienne/F*
 altimètre/S*
 altimétrie/S*
 altimétrique/S*
@@ -11216,6 +11329,7 @@ ampérométrie/S*
 ampérométrique/S*
 amphétamine/S*
 amphétaminique/S*
+amphète/S*
 amphi/S*
 amphiarthrose/S*
 amphibie/S*
@@ -11779,6 +11893,7 @@ annexionniste/S*
 annexite/S*
 annihilante/F*
 annihilation/S*
+annihilatrice/F*
 annihiler/a4p+
 anniversaire/S*
 annonacée/S*
@@ -11907,6 +12022,7 @@ antenniste/S*
 antennule/S*
 antépénultième/S*
 antépénultième/S*
+antépisode/S*
 antéposer/a2p+
 antéposition/S*
 antépulsion/S*
@@ -11953,6 +12069,7 @@ anthropocentrisme/S*
 anthropocentriste/S*
 anthropogenèse/S*
 anthropogénie/S*
+anthropogonie/S*
 anthropoïde/S*
 anthropologie/S*
 anthropologique/S*
@@ -12017,6 +12134,7 @@ anti-arythmique/S*
 antiatome/S*
 antiatomique/S*
 antiautomorphisme/S*
+antiautoritarisme/S*
 anti-avortement/L'D'Q'
 antiavortement/S*
 antibactérienne/F*
@@ -12043,6 +12161,7 @@ antibuée/L'D'Q'
 anticalcaire/L'D'Q'
 anticalcaire/S*
 anticalcique/S*
+anticancer/S*
 anticancéreuse/W*
 anticapitalisme/S*
 anticapitaliste/S*
@@ -12055,6 +12174,7 @@ antichambre/S*
 antichar/S*
 antichoc/S*
 anticholérique/S*
+anticholestérol/L'D'Q'
 anticholinergique/S*
 anticholinergique/S*
 antichômage/L'D'Q'
@@ -12076,6 +12196,7 @@ anticoloniale/W*
 anticolonialisme/S*
 anticolonialiste/S*
 anticomanie/S*
+anticommunarde/F*
 anticommunisme/S*
 anticommuniste/S*
 anticommutative/F*
@@ -12133,6 +12254,7 @@ anti-écologique/S*
 antiéconomique/S*
 anti-économique/S*
 antieffraction/L'D'Q'
+antiélectron/S*
 antiémétique/S*
 antiémeute/L'D'Q'
 antienne/S*
@@ -12142,6 +12264,7 @@ antiépileptique/S*
 antiesclavagiste/S*
 antiétatique/S*
 antiétatisme/S*
+antieuropéenne/F*
 antifa/S*
 antifading/S*
 antifascisme/S*
@@ -12206,6 +12329,7 @@ antijeu/X*
 antijeune/S*
 anti-jeune/S*
 antijudaïsme/S*
+antijuive/F*
 antilepton/S*
 antiliante/F*
 antilibérale/W*
@@ -12221,6 +12345,8 @@ antilogique/S*
 antilope/S*
 antimaçonnique/S*
 antimalarique/S*
+antimarxisme/S*
+antimarxiste/S*
 antimatière/S*
 antiméridien/S*
 antimicrobienne/F*
@@ -12301,6 +12427,7 @@ antiphilosophique/S*
 antiphlogistique/S*
 antiphonaire/S*
 antiphrase/S*
+antipiratage/L'D'Q'
 antiplaquettaire/S*
 antipodale/W*
 antipode/S*
@@ -12310,12 +12437,15 @@ antipoétique/S*
 antipoison/S*
 antipolio/L'D'Q'
 antipoliomyélitique/S*
+antipolitique/S*
+anti-politique/S*
 antipollupostage/S*
 antipollution/L'D'Q'
 antiproductivisme/S*
 antiproductiviste/S*
 antiprogressisme/S*
 antiprogressiste/S*
+antiproliférative/F*
 antiprotéase/S*
 antiprotectionniste/S*
 antiproton/S*
@@ -12379,6 +12509,7 @@ antiseptique/S*
 antiseptique/S*
 antisérotoninergique/S*
 antisérum/S*
+antisexisme/S*
 antisexiste/S*
 anti-sexiste/S*
 antisionisme/S*
@@ -12582,6 +12713,7 @@ apocynacée/S*
 apocynacée/S*
 apode/S*
 apode/S*
+apodicticité/S*
 apodictique/S*
 apodictiquement/D'Q'
 apodose/S*
@@ -12831,6 +12963,7 @@ aptérygote/S*
 aptéryx/L'D'Q'
 aptienne/F*
 aptitude/S*
+aptonyme/S*
 apurement/S*
 apurer/a2p+
 apyre/S*
@@ -13003,6 +13136,7 @@ archéomètre/S*
 archéométrie/S*
 archéoptéryx/L'D'Q'
 archéozoïque/S*
+archéozoologie/S*
 archère/F*
 archerie/S*
 archet/S*
@@ -13144,6 +13278,7 @@ argile/S*
 argileuse/W*
 argilite/S*
 argilo-calcaire/S*
+argilo-humique/S*
 argilo-limoneuse/F*
 argilo-siliceuse/W*
 arginine/S*
@@ -13256,6 +13391,7 @@ arobase/F*
 arolle/S*
 aromatase/S*
 aromate/S*
+aromathérapeute/S*
 aromathérapie/S*
 aromaticienne/F*
 aromaticité/S*
@@ -13448,6 +13584,7 @@ articulation/S*
 articulatoire/S*
 articuler/a4p+
 articulet/S*
+artification/S*
 artifice/S*
 artificialisation/S*
 artificialiser/a4p+
@@ -13542,6 +13679,7 @@ asilaire/S*
 asile/S*
 asiminier/S*
 asinienne/F*
+asismique/S*
 asociabilité/S*
 asociale/W*
 asocialité/S*
@@ -13642,6 +13780,7 @@ assette/S*
 assez/L'D'Q'Q*Qj
 assibilation/S*
 assibiler/a4p+
+assidéenne/F*
 assidue/F*
 assiduité/S*
 assidûment/D'Q'
@@ -13787,6 +13926,7 @@ astringence/S*
 astringent/S*
 astringente/F*
 astrobiologie/S*
+astrobiologiste/S*
 astroblème/S*
 astrochimie/S*
 astrocytaire/S*
@@ -13832,6 +13972,7 @@ asymptote/S*
 asymptotique/S*
 asymptotiquement/D'Q'
 asynchrone/S*
+asynchronie/S*
 asynchronisme/S*
 asyndète/S*
 asynergie/S*
@@ -14296,6 +14437,7 @@ autocensure/S*
 autocensurer/a3p+
 autocentrée/F*
 autocéphale/S*
+autocéphalie/S*
 autochenille/S*
 autochrome/S*
 autochrome/S*
@@ -14467,6 +14609,7 @@ autopalpation/S*
 autopartage/S*
 auto-partage/S*
 auto-patrouille/L'D'Q'
+autophage/S*
 autophagie/S*
 autophagique/S*
 autopilote/S*
@@ -14504,6 +14647,7 @@ auto-référentielle/F*
 autoréglage/S*
 autorégulation/S*
 autorégulatrice/F*
+autoréguler/a3p+
 autoreproduction/S*
 autoreproductrice/F*
 autorisation/S*
@@ -14517,6 +14661,7 @@ autoritative/F*
 autorité/S*
 autoroute/S*
 autoroutière/F*
+autosaisine/S*
 autosatisfaction/S*
 autoscopie/S*
 autos-couchettes/L'D'Q'
@@ -14560,7 +14705,7 @@ autre
 autre/S*
 autrefois/D'Q'
 autrement/D'Q'
-autrice/S*
+autrice/F*
 autrichienne/F*
 autruche/S*
 autruchon/S*
@@ -14747,6 +14892,7 @@ avocasserie/S*
 avocassière/F*
 avocate/F*
 avocatier/S*
+avocature/S*
 avocette/S*
 avodiré/S*
 avoine/S*
@@ -14862,8 +15008,8 @@ b/||--
 ba/||--
 baasisme/S.
 baasiste/S.
-b.a.-ba
 baba/S.
+babache/S.
 babeler/d0p.
 babélisme/S.
 babelutte/S.
@@ -14956,6 +15102,7 @@ bactrienne/F.
 bacul/S.
 bad
 badaboum
+badass
 badaude/F.
 badauderie/S.
 baddeleyite/S.
@@ -14986,7 +15133,6 @@ bafouer/a0p+
 bafoueuse/F.
 bafouillage/S.
 bafouille/S.
-bafouillement/S.
 bafouillement/S.
 bafouiller/a0p+
 bafouilleuse/F.
@@ -15025,11 +15171,11 @@ baguette/S.
 baguier/S.
 baguiste/S.
 bah
-baha'ie/F.
 bahaïe/F.
-baha'isme/S.
 bahaïsme/S.
 bahamienne/F.
+baha'ie/F.
+baha'isme/S.
 bahreïnie/F.
 baht/S.
 bahut/S.
@@ -15206,6 +15352,7 @@ balustre/S.
 balzacienne/F.
 balzane/F.
 bamakoise/F.
+bambara/S.
 bambine/F.
 bambochade/S.
 bambocharde/F.
@@ -15422,6 +15569,7 @@ bariolage/S.
 barioler/a0p+
 bariolure/S.
 barisienne/F.
+barista/S.
 barjaquer/a0p.
 barjo/S.
 barjot/S.
@@ -15482,10 +15630,13 @@ barreuse/F.
 barricade/S.
 barricader/a0p+
 barrière/S.
+barrio/S.
 barrique/S.
 barrir/f0p.
 barrissement/S.
 barrot/S.
+bars-tabacs
+bar-tabac
 bartavelle/S.
 barycentre/S.
 barycentrique/S.
@@ -15872,6 +16023,7 @@ bélemnite/S.
 bêler/a0p.
 bel-étage
 belette/S.
+belfortaine/F.
 belge/S.
 belgicaine/F.
 belgicisme/S.
@@ -15938,6 +16090,7 @@ bénéfice/S.
 bénéficiaire/S.
 bénéficier/a0p.
 bénéfique/S.
+bénéfiquement
 benêt/S.
 bénévolat/S.
 bénévole/S.
@@ -16092,7 +16245,10 @@ bétaillère/S.
 bétaïne/S.
 bêtalactamine/S.
 bêta-lactamine/S.
+bêtalectrice/F.
+bêta-lectrice/F.
 bêtasse/S.
+bêtastimulante/F.
 bêta-test/S.
 bêta-testeuse/F.
 bêtathérapie/S.
@@ -16122,6 +16278,7 @@ bétulacée/S.
 bétyle/S.
 beuglante/F.
 beuglante/S.
+beuglarde/F.
 beuglement/S.
 beugler/a0p+
 beugleuse/F.
@@ -16270,7 +16427,6 @@ bident/S.
 bider/a0p+
 bidet/S.
 bidimensionnelle/F.
-bidimensionnelle/F.
 bi-dimensionnelle/F.
 bidirectionnalité/S.
 bidirectionnelle/F.
@@ -16325,13 +16481,13 @@ bienvenue/F.
 bien-vivre
 bien-voulue/F.
 bière/S.
+biérologie/S.
 bièvre/S.
 biface/S.
 biface/S.
 biffage/S.
 biffe/S.
 biffer/a0p+
-biffeton/S.
 biffeton/S.
 biffetonner/a0p.
 biffin/S.
@@ -16395,6 +16551,7 @@ bi-invariante/F.
 bijection/S.
 bijective/F.
 bijectivement
+bijectivité/S.
 bijou/X.
 bijouterie/S.
 bijoutière/F.
@@ -16453,6 +16610,7 @@ bilocation/S.
 biloculaire/S.
 biloquer/a0p+
 biloter/a0p+
+biloute/S.
 bimane/S.
 bimbeloterie/S.
 bimbelotière/F.
@@ -16494,8 +16652,8 @@ binôme/S.
 binomiale/W.
 binominale/W.
 binouze/S.
-bin's
 bintje/S.
+bin's
 bio
 bio/S.
 bioabsorbable/S.
@@ -16517,6 +16675,7 @@ biochimie/S.
 biochimique/S.
 biochimiquement
 biochimiste/S.
+biochronologie/S.
 biocide/S.
 bioclimatique/S.
 bioclimatologie/S.
@@ -16553,7 +16712,6 @@ biofertilisant/S.
 biofilm/S.
 biogaz
 biogène/S.
-biogenèse/S.
 biogenèse/S.
 biogénétique/S.
 biogénétique/S.
@@ -16616,6 +16774,7 @@ biopic/S.
 biopiratage/S.
 biopirate/S.
 biopiraterie/S.
+bioplastique/S.
 biopolitique/S.
 biopolymère/S.
 bioproduit/S.
@@ -16680,7 +16839,6 @@ bipenne/S.
 bipennée/F.
 biper/a0p+
 biphasée/F.
-biphasique/S.
 biphasique/S.
 biphényle/S.
 bipied/S.
@@ -16779,6 +16937,7 @@ bistre
 bistre/S.
 bistrer/a0p+
 bistro/S.
+bistronomie/S.
 bistroquet/S.
 bistrot/S.
 bistrotière/F.
@@ -16788,6 +16947,7 @@ bisulfitique/S.
 bisulfure/S.
 bit/S.
 bit/||--
+bitable/S.
 bitcoin/S.
 bite/S.
 bitension/S.
@@ -16855,6 +17015,7 @@ blaff/S.
 blague/S.
 blaguer/a0p+
 blagueuse/F.
+blaguounette/S.
 blair/S.
 blairelle/W.
 blairer/a0p+
@@ -17869,6 +18030,7 @@ brassicacée/S.
 brassicole/S.
 brassière/S.
 brassin/S.
+brasucade/S.
 brasure/S.
 bravache/S.
 bravade/S.
@@ -17889,6 +18051,7 @@ brèche/S.
 brèche-dent
 bréchet/S.
 bréchique/S.
+bredele
 bredouillage/S.
 bredouillante/F.
 bredouille/S.
@@ -18094,6 +18257,7 @@ brol/S.
 bromacétique/S.
 bromate/S.
 bromation/S.
+bromazépam/S.
 brome/S.
 broméliacée/S.
 broméliacée/S.
@@ -18249,7 +18413,6 @@ brumasser/a8p.
 brume/S.
 brumer/a8p.
 brumeuse/W.
-brumeusement
 brumeusement
 brumisateur/S.
 brumisation/S.
@@ -18438,6 +18601,7 @@ buse/S.
 buselure/S.
 buser/a0p+
 bush/A.
+bushido/S.
 bushman/A.
 business
 businessman/A.
@@ -18601,6 +18765,7 @@ cache-lait
 cache-lumière
 cache-lumière/S.
 cachemire/S.
+cachemirie/F.
 cache-misère
 cache-museau
 cache-nez
@@ -18646,7 +18811,6 @@ cacou/S.
 cactacée/S.
 cactée/S.
 cactus
-c.-à-d
 cadancher/a0p.
 cadastrage/S.
 cadastrale/W.
@@ -18687,7 +18851,6 @@ cadre/S.
 cadrer/a0p+
 cadreuse/F.
 cadriciel/S.
-caduc/S.
 caducée/S.
 caducifoliée/F.
 caducité/S.
@@ -18776,7 +18939,6 @@ caillebotter/a0p+
 caille-lait/S.
 caillement/S.
 cailler/a0p+
-cailleteau/S.
 cailleteau/X.
 cailleter/d0p.
 caillette/S.
@@ -18882,6 +19044,7 @@ calembour/S.
 calembredaine/S.
 calendaire/S.
 calendes
+calendos
 calendrier/S.
 calendula/S.
 cale-pied
@@ -19134,6 +19297,7 @@ cancériser/a0p+
 cancérogène/S.
 cancérogène/S.
 cancérogenèse/S.
+cancérogénicité/S.
 cancérologie/S.
 cancérologique/S.
 cancérologue/S.
@@ -19245,6 +19409,7 @@ cantabile
 cantabile
 cantabrique/S.
 cantal/S.
+cantaloue/F.
 cantaloup/S.
 cantate/S.
 cantatrice/S.
@@ -19628,6 +19793,7 @@ caresser/a0p+
 caresseuse/F.
 caret/S.
 carex
+carfentanyl/S.
 car-ferry/A.
 cargaison/S.
 cargo/S.
@@ -20033,6 +20199,7 @@ catégorie/S.
 catégorielle/F.
 catégorique/S.
 catégoriquement
+catégorisable/S.
 catégorisante/F.
 catégorisation/S.
 catégoriser/a0p+
@@ -20159,7 +20326,10 @@ caviste/S.
 cavitaire/S.
 cavitation/S.
 cavité/S.
+caviter/a0p.
+cavurne/S.
 cd/U.||--
+ce
 ce
 céans
 cébette/S.
@@ -20497,7 +20667,6 @@ cessibilité/S.
 cessible/S.
 cession/S.
 cessionnaire/S.
-c'est-à-dire
 ceste/S.
 cestode/S.
 césure/S.
@@ -20610,8 +20779,10 @@ challengeuse/F.
 chaloir/pQ
 chalon/S.
 chalonnaise/F.
+chaloupage/S.
 chaloupe/S.
 chaloupée/F.
+chaloupement/S.
 chalouper/a0p.
 chalumeau/X.
 chalumiste/S.
@@ -21056,6 +21227,8 @@ chèche/S.
 chechia/S.
 chéchia/S.
 check-list/S.
+checkpoint/S.
+check-point/S.
 check-up
 chédail/S.
 cheddar/S.
@@ -21111,6 +21284,7 @@ chenapan/S.
 chêne/S.
 chéneau/X.
 chêne-liège
+chêneraie/S.
 chênes-lièges
 chenet/S.
 chènevière/S.
@@ -21175,7 +21349,6 @@ chevauchée/S.
 chevauchement/S.
 chevaucher/a0p+
 chevaucheuse/F.
-chevaucheuse/F.
 chevau-léger/S.
 chevaux-vapeur
 chevêche/S.
@@ -21223,6 +21396,7 @@ chez-soi
 chez-toi
 chez-vous
 chi/S.
+chia/S.
 chiade/S.
 chiader/a0p+
 chialage/S.
@@ -21325,6 +21499,7 @@ chimiothèque/S.
 chimiothérapeutique/S.
 chimiothérapie/S.
 chimiothérapique/S.
+chimiotrophe/S.
 chimique/S.
 chimiquement
 chimiquier/S.
@@ -21407,6 +21582,7 @@ chloramine/S.
 chloramphénicol/S.
 chlorate/S.
 chloration/S.
+chlordécone/S.
 chlore/S.
 chlorer/a0p+
 chloreuse/W.
@@ -21704,7 +21880,6 @@ chtarbée/F.
 chthonienne/F.
 chti/S.
 chtimi/S.
-ch'timi/S.
 chtouille/S.
 chuchotage/S.
 chuchotante/F.
@@ -21729,6 +21904,7 @@ chyme/S.
 chymotrypsine/S.
 chyprée/F.
 chypriote/S.
+ch'timi/S.
 ci
 ciabatta/S.
 ciao
@@ -21812,6 +21988,7 @@ cindynique/S.
 ciné/S.
 cinéaste/S.
 ciné-club/S.
+cinégénie/S.
 cinégénique/S.
 cinégraphie/S.
 cinégraphique/S.
@@ -22180,7 +22357,7 @@ clavicorne/S.
 claviculaire/S.
 clavicule/S.
 clavier/S.
-clavière/F.
+clavière/S.
 claviériste/S.
 clavigère/S.
 claviste/S.
@@ -22345,6 +22522,7 @@ clonable/S.
 clonage/S.
 clonale/W.
 clonalité/S.
+clonazépam/S.
 clone/S.
 cloner/a0p+
 clonidine/S.
@@ -22388,6 +22566,7 @@ cloyère/S.
 club/S.
 clubber/S.
 clubbeuse/F.
+clubbing/S.
 club-house/S.
 clubiste/S.
 clunisienne/F.
@@ -22399,7 +22578,6 @@ cluster/S.
 clysopompe/S.
 clystère/S.
 cnémide/S.
-cnidaire/S.
 cnidaire/S.
 cnidoblaste/S.
 cnidocil/S.
@@ -22430,8 +22608,10 @@ coalescente/F.
 coalisée/F.
 coaliser/a0p+
 coalition/S.
+coalitionnelle/F.
 coaltar/S.
 coanimatrice/F.
+coanimer/a0p+
 coaptation/S.
 coarctation/S.
 coassante/F.
@@ -22483,6 +22663,7 @@ coccus/I.
 coccygienne/F.
 coccyx
 cochaîne/S.
+cochampionne/F.
 coche/S.
 cochenille/S.
 cocher/a0p+
@@ -22507,6 +22688,7 @@ cocktail/S.
 coco/S.
 cocompacte/F.
 cocon/S.
+coconstruction/S.
 coconstruire/yM
 cocontractante/F.
 cocooner/a0p+
@@ -22522,6 +22704,7 @@ cocottes-minute
 co-courant/S.
 cocréancière/F.
 cocréatrice/F.
+cocréer/a0p+
 coction/S.
 cocuage/S.
 cocue/F.
@@ -22562,7 +22745,6 @@ codirection/S.
 codirectrice/F.
 codiriger/a0p+
 codominance/S.
-codominante/F.
 codominante/F.
 codon/S.
 coéchangiste/S.
@@ -22623,8 +22805,8 @@ coextensive/F.
 coextruder/a0p+
 co-extruder/a0p+
 coextrusion/S.
-coextrusion/S.
 co-extrusion/S.
+cofabriquer/a0p+
 cofacteur/S.
 coffin/S.
 coffrage/S.
@@ -22652,7 +22834,6 @@ cognassier/S.
 cognat/S.
 cognation/S.
 cognatique/S.
-cognatique/S.
 cogne/S.
 cognée/S.
 cognement/S.
@@ -22665,6 +22846,7 @@ cognitivement
 cognitivisme/S.
 cognitiviste/S.
 cognoter/a0p.
+cogouvernance/S.
 cohabitante/F.
 cohabitation/S.
 cohabitationniste/S.
@@ -22732,6 +22914,7 @@ cold-cream/S.
 col-de-cygne
 colectomie/S.
 colégataire/S.
+colégislatrice/F.
 coléoptère/S.
 coléoptère/S.
 coléoptile/S.
@@ -22887,6 +23070,7 @@ colonelle/F.
 coloniale/W.
 colonialisme/S.
 colonialiste/S.
+colonialité/S.
 colonie/S.
 colonisable/S.
 colonisation/S.
@@ -22956,6 +23140,7 @@ comateuse/W.
 comatule/S.
 combat/S.
 combative/F.
+combativement
 combativité/S.
 combattante/F.
 combattre/uA
@@ -22974,6 +23159,7 @@ combinatoire/S.
 combinatoire/S.
 combinatoirement
 combine/S.
+combiné/S.
 combiner/a0p+
 combishort/S.
 combi-short/S.
@@ -22999,6 +23185,7 @@ cométaire/S.
 comète/S.
 comice/S.
 comics
+coming-out
 comique/S.
 comiquement
 comite/S.
@@ -23289,6 +23476,7 @@ compotier/S.
 compound
 compréhensibilité/S.
 compréhensible/S.
+compréhensiblement
 compréhension/S.
 compréhensive/F.
 comprendre/tF
@@ -23394,7 +23582,6 @@ concertante/F.
 concertation/S.
 concerter/a0p+
 concertina/S.
-concertina/S.
 concertino/S.
 concertiste/S.
 concerto/S.
@@ -23484,6 +23671,7 @@ concussionnaire/S.
 condamnable/S.
 condamnation/S.
 condamnatoire/S.
+condamnatrice/F.
 condamnée/F.
 condamner/a0p+
 condé/S.
@@ -23574,6 +23762,7 @@ confidentiellement
 confier/a0p+
 config/S.
 configurable/S.
+configurateur/S.
 configuration/S.
 configurationnelle/F.
 configurer/a0p+
@@ -23930,7 +24119,6 @@ consultante/F.
 consultation/S.
 consultative/F.
 consulter/a0p+
-consulteur/S.
 consultrice/F.
 consumable/S.
 consumation/S.
@@ -24070,6 +24258,7 @@ contrapontique/S.
 contraposée/F.
 contraposée/S.
 contraposition/S.
+contraptonyme/S.
 contrapuntique/S.
 contrapuntiste/S.
 contrariante/F.
@@ -24428,6 +24617,7 @@ cooccurrente/F.
 cookie/S.
 cool
 coolie/S.
+coolitude/S.
 coop/S.
 coopérante/F.
 coopération/S.
@@ -24624,9 +24814,11 @@ cordonnière/F.
 cordons-bleus
 cordyline/S.
 coréalisatrice/F.
+coréaliser/a0p+
 corécepteur/S.
 co-récepteur/S.
 corédactrice/F.
+corédiger/a0p+
 coréenne/F.
 coréférence/S.
 corégence/S.
@@ -24657,6 +24849,7 @@ cornaquer/a0p+
 cornard/S.
 corne/S.
 corned-beef
+cornée/S.
 cornéenne/F.
 corneille/S.
 cornélienne/F.
@@ -24701,6 +24894,7 @@ coronographie/S.
 coronoïde/S.
 corossol/S.
 corossolier/S.
+coroutine/S.
 corozo/S.
 corporal/X.
 corporalité/S.
@@ -24816,6 +25010,7 @@ corvidé/S.
 corybante/S.
 corymbe/S.
 coryphée/S.
+coryphène/S.
 coryza/S.
 cos
 cosaque/S.
@@ -24912,6 +25107,7 @@ cotonnière/F.
 cotons-tiges
 coton-tige
 côtoyer/a0p+
+cotravail/X.
 cotre/S.
 cotret/S.
 cotriade/S.
@@ -25060,6 +25256,7 @@ coupleur/S.
 coupoir/S.
 coupole/S.
 coupon/S.
+couponing/S.
 couponnage/S.
 coupon-réponse
 coupons-réponse
@@ -25190,6 +25387,7 @@ couventine/S.
 couver/a0p+
 couvercle/S.
 couverte/F.
+couvertine/S.
 couverture/S.
 couveuse/S.
 couveuse/S.
@@ -25277,6 +25475,7 @@ craintivement
 crambe/S.
 crambé/S.
 cramer/a0p+
+cramine/S.
 cramique/S.
 cramoisie/F.
 crampe/S.
@@ -25403,6 +25602,7 @@ crédit-relais
 créditrice/F.
 crédits-bails
 credo
+crédobaptisme/S.
 crédule/S.
 crédulement
 crédulité/S.
@@ -25665,6 +25865,7 @@ croix
 crolle/S.
 crollée/F.
 croller/a0p.
+cromesquis
 cromlech/S.
 cromoglycate/S.
 cromorne/S.
@@ -26141,6 +26342,7 @@ cyberespace/S.
 cyberespionnage/S.
 cyberguerre/S.
 cyberharcèlement/S.
+cyber-harcèlement/S.
 cybermarchande/F.
 cybermilitante/F.
 cybermilitantisme/S.
@@ -26149,6 +26351,7 @@ cybernaute/S.
 cybernéticienne/F.
 cybernétique/S.
 cybernétique/S.
+cybernétiquement
 cyberpatrouille/S.
 cyberpirate/S.
 cyberpolice/S.
@@ -26189,6 +26392,7 @@ cyclohexane/S.
 cyclohexanone/S.
 cycloïdale/W.
 cycloïde/S.
+cyclomatique/S.
 cyclomoteur/S.
 cyclomotoriste/S.
 cyclonage/S.
@@ -26313,6 +26517,8 @@ cytotoxique/S.
 czar/S.
 czardas
 czimbalum/S.
+c'
+c'est-à-dire
 d
 d/||--
 dB/||--
@@ -26474,7 +26680,6 @@ daube/S.
 dauber/a0p+
 daubeuse/F.
 daubière/S.
-d'aucuns
 dauphine/F.
 dauphinelle/S.
 dauphinoise/F.
@@ -26482,6 +26687,7 @@ daurade/S.
 davantage
 davier/S.
 dazibao/S.
+de
 de
 dé/S.
 déactiver/a0p+
@@ -26521,6 +26727,7 @@ débarcadère/S.
 débardage/S.
 débarder/a0p+
 débardeuse/F.
+débarouler/a0p+
 débarquement/S.
 débarquer/a0p+
 débarras
@@ -26729,6 +26936,7 @@ décantage/S.
 décantation/S.
 décanter/a0p+
 décanteuse/F.
+décapacitation/S.
 décapage/S.
 décapante/F.
 décapeler/d0p+
@@ -26740,6 +26948,7 @@ décapitaliser/a0p+
 décapitation/S.
 décapitée/F.
 décapiter/a0p+
+décapiteuse/F.
 décapode/S.
 décapode/S.
 décapole/S.
@@ -26945,6 +27154,7 @@ déclinement/S.
 décliner/a0p+
 déclinisme/S.
 décliniste/S.
+déclipser/a0p+
 décliquetage/S.
 décliqueter/d0p+
 déclive/S.
@@ -26985,7 +27195,8 @@ décolletage/S.
 décolleté/S.
 décolleter/d0p+
 décolleteuse/F.
-décoloniale/F.
+décoloniale/W.
+décolonialisme/S.
 décolonisation/S.
 décoloniser/a0p+
 décolorante/F.
@@ -27054,6 +27265,7 @@ déconsidération/S.
 déconsidérer/c0p+
 déconsignation/S.
 déconsigner/a0p+
+déconsommation/S.
 déconstiper/a0p+
 déconstruction/S.
 déconstructionnisme/S.
@@ -27257,7 +27469,9 @@ déduction/S.
 déductive/F.
 déductivement
 déduire/yM
+déduplication/S.
 déesse/S.
+défaçage/S.
 défacement/S.
 défacer/a0p+
 défaillance/S.
@@ -27356,6 +27570,7 @@ définitionnelle/F.
 définitive/F.
 définitivement
 définitoire/S.
+défiscalisable/S.
 défiscalisation/S.
 défiscaliser/a0p+
 déflagrante/F.
@@ -27968,6 +28183,7 @@ démocratiquement
 démocratisation/S.
 démocratiser/a0p+
 démocratisme/S.
+démocrature/S.
 démoder/a0p+
 demodex
 démodulateur/S.
@@ -28127,6 +28343,7 @@ dénommer/a0p+
 dénoncer/a0p+
 dénonciation/S.
 dénonciatrice/F.
+dénormaliser/a0p+
 dénotation/S.
 dénotationnelle/F.
 dénotative/F.
@@ -28681,6 +28898,7 @@ désapparier/a0p+
 désappointement/S.
 désappointer/a0p+
 désapprendre/tF
+désapprentissage/S.
 désapprobation/S.
 désapprobatrice/F.
 désappropriation/S.
@@ -28738,7 +28956,6 @@ descension/S.
 descente/S.
 déscolarisation/S.
 déscolariser/a0p+
-descripteur/S.
 descriptible/S.
 descriptif/S.
 description/S.
@@ -28803,6 +29020,7 @@ désengager/a0p+
 désengluer/a0p+
 désengorgement/S.
 désengorger/a0p+
+désengouement/S.
 désengourdir/f0p+
 désengrener/b0p+
 désenivrer/a0p+
@@ -28832,11 +29050,13 @@ désenverguer/a0p+
 désenvoûtement/S.
 désenvoûter/a0p+
 désépaissir/f0p+
+désépingler/a0p+
 déséquilibrage/S.
 déséquilibrante/F.
 déséquilibre/S.
 déséquilibrer/a0p+
 déséquiper/a0p+
+désérialiser/a0p+
 désert/S.
 déserte/F.
 déserter/a0p+
@@ -28913,6 +29133,7 @@ désillusionnement/S.
 désillusionner/a0p+
 désimbrication/S.
 désimbriquer/a0p+
+désimlocker/a0p+
 désincarcération/S.
 désincarcérer/c0p+
 désincarnation/S.
@@ -28940,6 +29161,7 @@ désinflation/S.
 désinformation/S.
 désinformer/a0p+
 désingularisation/S.
+désinhibante/F.
 désinhiber/a0p+
 désinhibition/S.
 désinhibitrice/F.
@@ -29466,6 +29688,7 @@ dextrose/S.
 dey/S.
 dézinguer/a0p+
 dézipper/a0p+
+dézonage/S.
 dézoomer/a0p+
 dgr/||--
 dhamma
@@ -29839,6 +30062,7 @@ dilacérer/c0p+
 dilapidation/S.
 dilapidatrice/F.
 dilapider/a0p+
+dilapideuse/F.
 dilatabilité/S.
 dilatable/S.
 dilatance/S.
@@ -30204,7 +30428,6 @@ dissidence/S.
 dissidente/F.
 dissimilaire/S.
 dissimilarité/S.
-dissimilarité/S.
 dissimilation/S.
 dissimiler/a0p+
 dissimilitude/S.
@@ -30361,6 +30584,7 @@ divorce/S.
 divorcée/F.
 divorcer/a0p.
 divortialité/S.
+divulgâcher/a0p+
 divulgâcheur/S.
 divulgâchis
 divulgation/S.
@@ -30461,6 +30685,7 @@ doge/S.
 dogger/S.
 dogmatique/S.
 dogmatiquement
+dogmatisation/S.
 dogmatiser/a0p+
 dogmatiseur/S.
 dogmatisme/S.
@@ -30470,6 +30695,7 @@ dogonne/F.
 dogue/S.
 doguer/a0p+
 doigt/S.
+doigtage/S.
 doigté/S.
 doigter/a0p+
 doigtier/S.
@@ -30585,6 +30811,7 @@ doping/S.
 doppelgänger/S.
 dorade/S.
 dorage/S.
+dordognaise/F.
 dorée/F.
 dorénavant
 dorer/a0p+
@@ -30641,6 +30868,7 @@ douance/S.
 douane/S.
 douanière/F.
 douar/S.
+doubiste/S.
 doublage/S.
 double/S.
 double/S.
@@ -30764,6 +30992,7 @@ draineuse/F.
 draisienne/S.
 draisine/S.
 drakkar/S.
+drama/S.
 dramatique/S.
 dramatiquement
 dramatisation/S.
@@ -31096,12 +31325,14 @@ dysmnésie/S.
 dysmnésique/S.
 dysmorphie/S.
 dysmorphophobie/S.
+dysmorphophobique/S.
 dysmorphose/S.
 dysorexie/S.
 dysorthographie/S.
 dysorthographique/S.
 dysosmie/S.
 dysovulation/S.
+dysparentalité/S.
 dyspareunie/S.
 dyspepsie/S.
 dyspepsique/S.
@@ -31119,6 +31350,7 @@ dysplasique/S.
 dyspnée/S.
 dyspnéique/S.
 dyspraxie/S.
+dyspraxique/S.
 dysprosium/S.
 dysrégulation/S.
 dysrythmie/S.
@@ -31143,6 +31375,9 @@ dysurie/S.
 dysurique/S.
 dytique/S.
 dzêta
+d'
+d'
+d'aucuns
 e
 eV/U.||--
 eau/X*
@@ -31295,7 +31530,6 @@ ecdysone/S*
 échange/S*
 échangeable/S*
 échanger/a4p+
-échangeur/S*
 échangeuse/F*
 échangisme/S*
 échangiste/S*
@@ -31587,6 +31821,7 @@ e-commerce/S*
 écrasage/S*
 écrasante/F*
 écrasement/S*
+écrase-merde/L'D'Q'
 écraser/a4p+
 écraseuse/F*
 écrémage/S*
@@ -31623,6 +31858,7 @@ e-commerce/S*
 écroûter/a2p+
 écroûteuse/S*
 écrue/F*
+ecsta/S*
 ecstasy/A*
 ectasie/S*
 ecthyma/S*
@@ -31698,6 +31934,7 @@ edelweiss/L'D'Q'
 éditoriale/W*
 éditorialement/L'D'Q'
 éditorialiser/a2p+
+éditorialisme/S*
 éditorialiste/S*
 éditrice/F*
 édredon/S*
@@ -32027,6 +32264,7 @@ e-learning/S*
 électrofunk/S*
 électrogène/S*
 électrokinésie/S*
+électrolaser/S*
 électrologie/S*
 électroluminescence/S*
 électroluminescente/F*
@@ -32104,7 +32342,6 @@ e-learning/S*
 électrovalence/S*
 électrovanne/S*
 électrum/S*
-électuaire/S*
 électuaire/S*
 élégamment/D'Q'
 élégance/S*
@@ -33001,7 +33238,6 @@ endothéliome/S*
 endothélium/S*
 endotherme/S*
 endothermicité/S*
-endothermicité/S*
 endothermie/S*
 endothermique/S*
 endotoxine/S*
@@ -33176,6 +33412,7 @@ engrois/L'D'Q'
 engrosser/a2p+
 engrumeler/d4p+
 engueulade/S*
+engueulement/S*
 engueuler/a4p+
 enguichée/F*
 enguichure/S*
@@ -33445,6 +33682,7 @@ entêtement/S*
 entêter/a4p+
 enthalpie/S*
 enthalpique/S*
+enthèse/S*
 enthésopathie/S*
 enthousiasmante/F*
 enthousiasme/S*
@@ -33499,7 +33737,6 @@ entradmirer/a6p+
 entraide/S*
 entraider/a6p+
 entrailles/D'Q'
-entr'aimer/a6p+
 entrain/S*
 entraînable/S*
 entraînante/F*
@@ -33509,7 +33746,6 @@ entraîneuse/F*
 entrait/S*
 entrante/F*
 entrapercevoir/pK
-entr'apercevoir/pK
 entrave/S*
 entraver/a2p+
 entravon/S*
@@ -33547,7 +33783,6 @@ entrefer/S*
 entrefilet/S*
 entre-frapper/a6p+
 entregent/S*
-entr'égorger/a6p+
 entre-haïr/fB
 entre-heurter/a6p+
 entrejambe/S*
@@ -33606,15 +33841,18 @@ entrevoir/pF
 entrevous/L'D'Q'
 entrevoûter/a2p+
 entrevue/S*
-entr'hiverner
 entrisme/S*
 entropie/S*
 entropion/S*
 entropique/S*
 entroque/S*
 entrouvrir/iC
-entr'ouvrir/iC
 entrure/S*
+entr'aimer/a6p+
+entr'apercevoir/pK
+entr'égorger/a6p+
+entr'hiverner
+entr'ouvrir/iC
 entuber/a2p+
 enturbanner/a4p+
 enture/S*
@@ -34404,6 +34642,7 @@ eskimo/S*
 ésotérique/S*
 ésotériquement/D'Q'
 ésotérisme/S*
+ésotériste/S*
 espace/S*
 espacement/S*
 espacer/a4p+
@@ -34576,6 +34815,7 @@ estime/S*
 estimer/a4p+
 estivage/S*
 estivale/W*
+estivalière/F*
 estivante/F*
 estivation/S*
 estiver/a2p+
@@ -34782,6 +35022,8 @@ ethnopsychiatrie/S*
 ethnopsychologie/S*
 ethno-raciale/W*
 ethnoreligieuse/W*
+ethnosociologie/S*
+ethno-sociologie/S*
 éthographie/S*
 éthologie/S*
 éthologique/S*
@@ -34913,6 +35155,7 @@ ethos/L'D'Q'
 étymologique/S*
 étymologiquement/D'Q'
 étymologiste/S*
+étymologue/S*
 étymon/S*
 eubactérie/S*
 eubage/S*
@@ -34976,6 +35219,7 @@ eurafricaine/F*
 eurasiatique/S*
 eurasienne/F*
 eurêka
+eurélienne/F*
 euro/S*
 eurobanque/S*
 eurocent/S*
@@ -35377,6 +35621,7 @@ exogamie/S*
 exogamique/S*
 exogène/S*
 exogénéité/S*
+exogénose/S*
 exogroupe/S*
 exomphale/S*
 exon/S*
@@ -35415,7 +35660,6 @@ exotérisme/S*
 exoterre/S*
 exotherme/S*
 exothermicité/S*
-exothermicité/S*
 exothermie/S*
 exothermique/S*
 exotique/S*
@@ -35431,6 +35675,7 @@ expansionnisme/S*
 expansionniste/S*
 expansive/F*
 expansivité/S*
+expat/S*
 expatriation/S*
 expatriée/F*
 expatrier/a4p+
@@ -35662,6 +35907,7 @@ extraforte/F*
 extra-forte/F*
 extragalactique/S*
 extragénique/S*
+extrahépatique/S*
 extrahumaine/F*
 extra-humaine/F*
 extraire/wL
@@ -35971,6 +36217,7 @@ familistère/S.
 famille/S.
 famine/S.
 fan/S.
+fana/S.
 fanage/S.
 fanaison/S.
 fanal/X.
@@ -36203,6 +36450,7 @@ favorablement
 favori/S.
 favori/S.
 favorisante/F.
+favorisation/S.
 favoriser/a0p+
 favorite/S.
 favorite/S.
@@ -36245,11 +36493,11 @@ féculente/F.
 féculer/a0p+
 féculerie/S.
 féculière/F.
-feda'i
 fedayin
 fedayin/S.
-fedda'i
+feda'i
 feddayin
+fedda'i
 fédérale/W.
 fédéralisation/S.
 fédéraliser/a0p+
@@ -36340,6 +36588,7 @@ fennec/S.
 fenouil/S.
 fenouillet/S.
 fenouillette/S.
+fentanyl/S.
 fente/S.
 fenton/S.
 fenugrec/S.
@@ -36822,6 +37071,7 @@ finnoise/F.
 finno-ougrien/S.
 finno-ougrienne/F.
 finslérienne/S.
+fin'amor/S.
 fiole/S.
 fion/S.
 fioriture/S.
@@ -37031,6 +37281,7 @@ fleurir/f0p+
 fleurissante/F.
 fleurissement/S.
 fleuriste/S.
+fleuristerie/S.
 fleuron/S.
 fleuronnée/F.
 fleuve/S.
@@ -37043,6 +37294,7 @@ flexion/S.
 flexionnelle/F.
 flexisécurité/S.
 flexitarienne/F.
+flexitarisme/S.
 flexographe/S.
 flexographie/S.
 flexueuse/W.
@@ -37083,6 +37335,7 @@ floconnement/S.
 floconner/a0p.
 floconneuse/W.
 floculation/S.
+flocule/S.
 floculer/a0p.
 floe/S.
 flognarde/S.
@@ -37336,6 +37589,7 @@ fondre/tA
 fondrière/S.
 fonds
 fondue/F.
+fonge/S.
 fongibilité/S.
 fongible/S.
 fongicide/S.
@@ -37562,7 +37816,6 @@ fouleuse/F.
 fouloir/S.
 foulon/S.
 foulonnage/S.
-foulonnier/S.
 foulonnière/F.
 foulque/S.
 foultitude/S.
@@ -37805,6 +38058,7 @@ francophobe/S.
 francophobie/S.
 francophone/S.
 francophonie/S.
+francophonisation/S.
 francophoniser/a0p+
 franco-polonaise/F.
 franco-provençal/X.
@@ -38137,6 +38391,7 @@ fructuosité/S.
 frugale/W.
 frugalement
 frugalité/S.
+frugifère/S.
 frugivore/S.
 fruit/S.
 fruitage/S.
@@ -38899,6 +39154,7 @@ géante/F.
 géaster/S.
 gecko/S.
 geek/S.
+geeker/a0p.
 geekerie/S.
 geekette/S.
 géhenne/S.
@@ -38981,6 +39237,7 @@ généralat/S.
 générale/W.
 généralement
 généralisable/S.
+généralisante/F.
 généralisation/S.
 généralisatrice/F.
 généraliser/a0p+
@@ -39080,6 +39337,7 @@ gentleman-rider
 gentlemen-farmers
 gentlemen-riders
 gentrification/S.
+gentrifier/a0p+
 gentry/A.
 génuflectrice/F.
 génuflexion/S.
@@ -39309,6 +39567,7 @@ gestique/S.
 gestuaire/S.
 gestualité/S.
 gestuelle/F.
+gestuelle/S.
 getter/S.
 gewurztraminer/S.
 geyser/S.
@@ -39318,6 +39577,7 @@ ghettoïsation/S.
 ghettoïser/a0p+
 ghilde/S.
 ghillie/S.
+ghréline/S.
 giaour/S.
 giardia/S.
 giardiase/S.
@@ -39457,6 +39717,7 @@ glacis
 glaçon/S.
 glaçure/S.
 gladiatrice/F.
+gladiature/S.
 glaglater
 glagolitique/S.
 glaïeul/S.
@@ -39544,6 +39805,7 @@ globe-trotteuse/F.
 globicéphale/S.
 globigérine/S.
 globine/S.
+globique/S.
 globish/S.
 globulaire/S.
 globulaire/S.
@@ -39552,6 +39814,7 @@ globuleuse/W.
 globuline/S.
 glockenspiel/S.
 gloire/S.
+glomaline/S.
 glome/S.
 gloméris
 glomérulaire/S.
@@ -39675,7 +39938,6 @@ glyphosate/S.
 glyptique/S.
 glyptique/S.
 glyptodon/S.
-glyptodon/S.
 glyptodonte/S.
 glyptographie/S.
 glyptothèque/S.
@@ -39787,6 +40049,7 @@ golfer/a0p.
 golfeuse/F.
 golfique/S.
 golmotte/S.
+gomasio/S.
 gombo/S.
 goménol/S.
 goménolée/F.
@@ -39986,6 +40249,7 @@ goutteur/S.
 goutteuse/W.
 gouttière/S.
 gouttiner/a8p.
+gouvernabilité/S.
 gouvernable/S.
 gouvernail/S.
 gouvernance/S.
@@ -40109,6 +40373,7 @@ grandiloquence/S.
 grandiloquente/F.
 grandiose/S.
 grandiosement
+grandiosité/S.
 grandir/f0p+
 grandissante/F.
 grandissement/S.
@@ -40121,7 +40386,6 @@ grand-papa
 grand-peine
 grand-père
 grand-place/S.
-grand-route
 grand-route/S.
 grand-rue
 grands-angles
@@ -40419,6 +40683,7 @@ griffure/S.
 grignarde/F.
 grigne/S.
 grigner/a0p.
+grigneuse/W.
 grignon/S.
 grignotage/S.
 grignotement/S.
@@ -40564,6 +40829,7 @@ grossir/f0p+
 grossissante/F.
 grossissement/S.
 grossiste/S.
+grossium/S.
 grosso
 grossophobe/S.
 grossophobie/S.
@@ -40809,6 +41075,7 @@ gynérium/S.
 gynogenèse/S.
 gynogénétique/S.
 gynoïde/S.
+gyoza/S.
 gypaète/S.
 gypse/S.
 gypserie/S.
@@ -41180,6 +41447,7 @@ haschischine/F.
 haschischisme/S.
 hase/S.
 hashtag/S.
+hasmonéenne/F*
 hassidique/S.
 hassidisme/S.
 hassium/S.
@@ -41706,6 +41974,8 @@ hétéronyme/S*
 hétéronyme/S*
 hétéroparentale/W*
 hétéroparentalité/S*
+hétéropatriarcale/W*
+hétéropatriarcat/S.
 hétérophilie/S*
 hétérophyllie/S*
 hétéroplastie/S*
@@ -41938,6 +42208,7 @@ historicisme/S*
 historiciste/S*
 historicité/S*
 historico-critique/S*
+historico-politique/S*
 historienne/F*
 historier/a2p+
 historiette/S*
@@ -42006,6 +42277,7 @@ holocrine/S*
 holocristalline/F.
 holoèdre/S*
 hologamie/S*
+hologrammatique/S*
 hologramme/S*
 holographe/S*
 holographie/S*
@@ -42093,6 +42365,7 @@ homoganique/S*
 homogénat/S*
 homogène/S*
 homogénéifier/a2p+
+homogénéisante/F*
 homogénéisateur/S*
 homogénéisation/S*
 homogénéisatrice/F*
@@ -42112,7 +42385,6 @@ homologiquement/D'Q'
 homologue/S*
 homologuer/a2p+
 homolyse/S*
-homolytique/S*
 homolytique/S*
 homomorphe/S*
 homomorphisme/S*
@@ -42252,7 +42524,6 @@ hors-média
 hors-piste
 hors-série
 hors-série
-hors-série
 hors-série/S.
 hors-sol
 hors-sol
@@ -42268,7 +42539,6 @@ hortillonnage/S*
 hosanna/S*
 hospice/S*
 hospitalière/F*
-hospitalièrement
 hospitalièrement/L'D'Q'
 hospitalisation/S*
 hospitaliser/a2p+
@@ -42349,6 +42619,7 @@ houssine/S.
 houssiner/a0p+
 houssoir/S.
 houx
+hoverboard/S*
 hovercraft/S*
 hoyau/X.
 hpz/||--
@@ -42741,12 +43012,14 @@ hypercoagulabilité/S*
 hypercomplexe/S*
 hyperconformisme/S*
 hyperconnectée/F*
+hyperconscience/S*
 hypercontinentale/W*
 hypercontrôle/S*
 hypercorrecte/F*
 hypercorrection/S*
 hypercorticisme/S*
 hypercritique/S*
+hypercroissance/S*
 hypercube/S*
 hyperdolichocéphale/S*
 hyperdulie/S*
@@ -42802,11 +43075,14 @@ hypermétrie/S*
 hypermétrope/S*
 hypermétropie/S*
 hypermnésie/S*
+hypermnésique/S*
 hypermonde/S*
 hypernatrémie/S*
 hypernerveuse/W*
 hypernova/L'D'Q'
 hypernovæ/D'Q'
+hyperœstrogénie/S*
+hyper-œstrogénie/S*
 hypéron/S*
 hyperonyme/S*
 hyperonymie/S*
@@ -42821,6 +43097,7 @@ hyperphalangie/S*
 hyperplan/S*
 hyperplasie/S*
 hyperplasique/S*
+hyperprésidente/F*
 hyperproductivité/S*
 hyperprolactinémie/S*
 hyperpuissance/S*
@@ -42841,6 +43118,7 @@ hypersollicitation/S*
 hypersomniaque/S*
 hypersomnie/S*
 hypersonique/S*
+hyperspécialisation/S*
 hypersphère/S*
 hyperstatique/S*
 hyperstatisme/S*
@@ -42891,6 +43169,7 @@ hypnologie/S*
 hypnologue/S*
 hypnopompique/S*
 hypnose/S*
+hypnosédation/S*
 hypnothérapeute/S*
 hypnothérapeutique/S*
 hypnothérapie/S*
@@ -42960,6 +43239,8 @@ hyponatrémie/S*
 hyponomeute/S*
 hyponyme/S*
 hyponymie/S*
+hypoœstrogénie/S*
+hypo-œstrogénie/S*
 hypoparathyroïdie/S*
 hypoperfusion/S*
 hypophosphite/S*
@@ -43063,6 +43344,7 @@ ibuprofène/S*
 icaque/S*
 icaquier/S*
 icarienne/F*
+icaunaise/F*
 iceberg/S*
 ice-field/S*
 icelle/D'Q'
@@ -43255,6 +43537,7 @@ illégitimité/S*
 illettrée/F*
 illettrisme/S*
 illibérale/W*
+illibéralisme/S*
 illicéité/S*
 illicite/S*
 illicitement/D'Q'
@@ -43663,7 +43946,6 @@ importatrice/F*
 importer/a4p+
 import-export/L'D'Q'
 imports-exports/D'Q'
-imports-exports/D'Q'
 importune/F*
 importunément/D'Q'
 importuner/a2p+
@@ -43796,7 +44078,6 @@ inaccentuée/F*
 inacceptabilité/S*
 inacceptable/S*
 inacceptation/S*
-inacceptée/F*
 inacceptée/F*
 inaccessibilité/S*
 inaccessible/S*
@@ -43945,6 +44226,7 @@ inchauffable/S*
 inchavirable/S*
 inchoation/S*
 inchoative/F*
+inch'Allah
 incidemment/D'Q'
 incidence/S*
 incidente/F*
@@ -44022,6 +44304,7 @@ incomparable/S*
 incomparablement/D'Q'
 incompatibilité/S*
 incompatible/S*
+incompensable/S*
 incompétence/S*
 incompétente/F*
 incomplète/F*
@@ -44077,7 +44360,6 @@ inconsistante/F*
 inconsolable/S*
 inconsolée/F*
 inconsommable/S*
-inconstamment/D'Q'
 inconstamment/L'D'Q'
 inconstance/S*
 inconstante/F*
@@ -44280,6 +44562,7 @@ indianiste/S*
 indianité/S*
 indianocéanique/S*
 indic/S*
+indiçage/S*
 indican/S*
 indication/S*
 indicative/F*
@@ -44547,6 +44830,7 @@ inexplorable/S*
 inexplorée/F*
 inexplosible/S*
 inexpressive/F*
+inexpressivité/S*
 inexprimable/S*
 inexprimablement/D'Q'
 inexprimée/F*
@@ -44630,6 +44914,7 @@ infime/S*
 infime/S*
 infinie/F*
 infiniment/L'D'Q'
+infinissable/S*
 infinitaire/S*
 infinité/S*
 infinitésimale/W*
@@ -44675,14 +44960,17 @@ infobésité/S*
 infobulle/S*
 infogérance/S*
 infogérant/S*
+infogérer/c0p+
 infographe/S*
 infographie/S*
 infographique/S*
 infographiste/S*
+infolettre/S*
 in-folio/L'D'Q'
 in-folio/L'D'Q'
 infondée/F*
 infonuagique/S*
+informalité/S*
 informaticienne/F*
 information/S*
 informationnelle/F*
@@ -44733,6 +45021,7 @@ infrasonore/S*
 infra-sonore/S*
 infraspécifique/S*
 infrastructure/S*
+infrastructurelle/F*
 infravision/S*
 infréquentable/S*
 infréquentée/F*
@@ -44953,6 +45242,7 @@ inquart/S*
 inquartation/S*
 in-quarto/L'D'Q'
 in-quarto/L'D'Q'
+inquestionnable/S*
 inquestionnée/F*
 inquiétante/F*
 inquiète/F*
@@ -45203,6 +45493,7 @@ intaille/S*
 intailler/a2p+
 intangibilité/S*
 intangible/S*
+intangiblement/L'D'Q'
 intarissable/S*
 intarissablement/D'Q'
 intégrabilité/S*
@@ -45213,9 +45504,9 @@ intégralement/D'Q'
 intégralité/S*
 intégrande/S*
 intégrante/F*
-intégrateur/S*
 intégration/S*
 intégrationniste/S*
+intégratrice/F*
 intègre/S*
 intègrement/L'D'Q'
 intégrer/c4p+
@@ -45434,6 +45725,7 @@ intermétallique/S*
 intermezzo/S*
 interminable/S*
 interminablement/D'Q'
+interministérialité/S*
 interministérielle/F*
 intermission/S*
 intermittence/S*
@@ -45504,6 +45796,7 @@ interpréter/c4p+
 interpréteur/S*
 interprofession/S*
 interprofessionnelle/F*
+interprovinciale/W*
 interpsychologie/S*
 interquartile/S*
 interquartile/S*
@@ -45650,6 +45943,7 @@ intrafamiliale/W*
 intra-familiale/W*
 intragénérationnelle/F*
 intragénique/S*
+intrahépatique/S*
 intraitable/S*
 intra-membranaire/S*
 intramodale/W*
@@ -45678,6 +45972,7 @@ intrapsychique/S*
 intrarachidienne/F*
 intraspécifique/S*
 intrathoracique/S*
+intra-urbaine/F*
 intra-utérine/F*
 intravaginale/W*
 intravasculaire/S*
@@ -45967,6 +46262,7 @@ irréfutabilité/S*
 irréfutable/S*
 irréfutablement/D'Q'
 irréfutée/F*
+irregardable/S*
 irrégularité/S*
 irrégulière/F*
 irrégulièrement/D'Q'
@@ -45989,6 +46285,7 @@ irreprésentable/S*
 irreprésentable/S*
 irrépressible/S*
 irrépressiblement/D'Q'
+irréprochabilité/S*
 irréprochable/S*
 irréprochablement/D'Q'
 irrésignée/F*
@@ -46004,6 +46301,7 @@ irrespectueusement/D'Q'
 irrespirable/S*
 irresponsabilité/S*
 irresponsable/S*
+irrétractable/S*
 irrétrécissable/S*
 irrévélée/F*
 irrévéremment/D'Q'
@@ -46047,6 +46345,7 @@ isenthalpiquement/L'D'Q'
 isentrope/S*
 isentropique/S*
 isentropiquement/L'D'Q'
+iséroise/F*
 isiaque/S*
 islam/S*
 islamique/S*
@@ -46504,6 +46803,7 @@ jet/S.
 jetable/S.
 jetage/S.
 jeté/S.
+jetée/S.
 jeter/d0p+
 jeteuse/F.
 jeton/S.
@@ -46677,6 +46977,7 @@ juchoir/S.
 judaïcité/S.
 judaïque/S.
 judaïsante/F.
+judaïsation/S.
 judaïser/a0p+
 judaïsme/S.
 judaïté/S.
@@ -46688,6 +46989,7 @@ judéo-arabe/S.
 judéo-chrétienne/F.
 judéo-christianisme/S.
 judéo-espagnole/F.
+judéo-maçonnique/S.
 judéophobe/S.
 judéophobie/S.
 judicature/S.
@@ -46780,13 +47082,14 @@ jusant/S.
 jusée/S.
 jusnaturalisme/S.
 jusnaturaliste/S.
-jusqu/--
-jusqu'au-boutisme/S.
-jusqu'au-boutiste/S.
+jusqu
 jusque
 jusque-là
 jusques
 jusquiame/S.
+jusqu'/--
+jusqu'au-boutisme/S.
+jusqu'au-boutiste/S.
 jussiée/S.
 jussion/S.
 justaucorps
@@ -46821,6 +47124,7 @@ juxtaposable/S.
 juxtaposante/F.
 juxtaposer/a0p+
 juxtaposition/S.
+j'
 k
 kabbale/S.
 kabbaliste/S.
@@ -46859,6 +47163,7 @@ kamala/S.
 kami/S.
 kamichi/S.
 kamikaze/S.
+kamishibaï/S.
 kammerspiel/S.
 kana
 kana/S.
@@ -47061,6 +47366,7 @@ kippa/S.
 kipper/S.
 kir/S.
 kirghize/F.
+kirigami/S.
 kirsch/S.
 kissel/S.
 kit/S.
@@ -47151,6 +47457,7 @@ krishnaïte/S.
 kriss
 kronprinz
 kroumir/S.
+krump/S.
 krypton/S.
 ksar
 ksatriya
@@ -47179,7 +47486,6 @@ kyste/S.
 kystique/S.
 kyu/S.
 kyudo/S.
-l
 l
 l/U.||--
 là
@@ -47466,6 +47772,7 @@ lançage/S.
 lance/S.
 lance-amarres
 lance-bombes
+lancée/S.
 lance-engins
 lance-flammes
 lance-fusées
@@ -47487,7 +47794,7 @@ lancière/S.
 lancinante/F.
 lanciner/a0p+
 lançon/S.
-land
+land/S.
 landaise/F.
 landammann/S.
 landau/S.
@@ -47815,7 +48122,7 @@ legendrienne/F.
 légère/F.
 légèrement
 légèreté/S.
-leggings
+legging/S.
 leggins
 leghorn/S.
 légifération/S.
@@ -47832,6 +48139,7 @@ législativement
 législatrice/F.
 législature/S.
 légiste/S.
+légistique/S.
 légitimation/S.
 légitime/S.
 légitimée/F.
@@ -48066,9 +48374,12 @@ lexicaliser/a0p+
 lexicographe/S.
 lexicographie/S.
 lexicographique/S.
+lexicographiquement
 lexicologie/S.
 lexicologique/S.
 lexicologue/S.
+lexicométrie/S.
+lexicométrique/S.
 lexie/S.
 lexique/S.
 lexis
@@ -48261,6 +48572,7 @@ liguliflore/S.
 liguliflore/S.
 ligure/S.
 like/S.
+liker/a0p+
 lilas
 liliacée/F.
 liliale/W.
@@ -48696,6 +49008,7 @@ logiciellement
 logicienne/F.
 logicisme/S.
 logiciste/S.
+logico-déductive/F.
 logico-mathématique/S.
 logico-positivisme/S.
 logigramme/S.
@@ -48839,8 +49152,9 @@ loriquet/S.
 lorraine/F.
 lorry/A.
 lors
-lorsqu/--
+lorsqu
 lorsque
+lorsqu'/--
 losange/S.
 losangée/F.
 losangique/S.
@@ -49180,12 +49494,15 @@ lysosome/S.
 lysosomiale/W.
 lysozyme/S.
 lytique/S.
+l'
+l'
 m
 m/U.||--
 mCE
 mR/||--
 ma
 maar/S.
+maastrichtoise/F.
 maboule/F.
 maboulisme/S.
 mac/S.
@@ -49311,6 +49628,7 @@ macrophotographie/S.
 macrophotographique/S.
 macrophyte/S.
 macropode/S.
+macroporosité/S.
 macroscélide/S.
 macroscopie/S.
 macroscopique/S.
@@ -49535,6 +49853,8 @@ mainmise/S.
 mainmortable/S.
 mainmorte/S.
 mains-d'œuvre
+mainstream
+mainstream/S.
 mainte/F.
 maintenabilité/S.
 maintenable/S.
@@ -49594,6 +49914,7 @@ maïzena/S.
 majesté/S.
 majestueuse/W.
 majestueusement
+majestuosité/S.
 majeure/F.
 majolique/S.
 ma-jong/S.
@@ -49707,6 +50028,7 @@ malfrat/S.
 malgache/S.
 malgracieuse/W.
 malgré
+malgré-nous
 malhabile/S.
 malhabilement
 malhabileté/S.
@@ -49828,8 +50150,8 @@ mammoplastie/S.
 mammouth/S.
 mammy/S.
 mamours
-mam'selle/S.
 mamy/S.
+mam'selle/S.
 mam'zelle/S.
 man/S.
 mana/S.
@@ -50076,6 +50398,7 @@ maraîchage/S.
 maraîchère/F.
 maraîchine/F.
 marais
+maralpine/F.
 maranta/S.
 marasme/S.
 marasque/S.
@@ -50207,6 +50530,7 @@ marieuse/F.
 marigot/S.
 marihuana/S.
 marijuana/S.
+mariligérienne/F.
 marimba/S.
 marina/S.
 marinade/S.
@@ -50298,6 +50622,7 @@ marquisat/S.
 marquise/F.
 marquoir/S.
 marraine/S.
+marrane/S.
 marrante/F.
 marre
 marrer/a0p+
@@ -50463,7 +50788,6 @@ masturbation/S.
 masturbatoire/S.
 masturbatrice/F.
 masturber/a0p+
-m'as-tu-vu
 masure/S.
 masurium/S.
 mât/S.
@@ -50503,6 +50827,7 @@ matériellement
 maternage/S.
 maternalisme/S.
 maternaliste/S.
+maternante/F.
 maternelle/F.
 maternellement
 materner/a0p+
@@ -50525,6 +50850,7 @@ matifiante/F.
 matin/S.
 matinale/W.
 matinalement
+matinalière/F.
 mâtine/F.
 matinée/S.
 mâtiner/a0p+
@@ -50631,6 +50957,7 @@ maximum/S.
 maxwell/S.
 maxwellienne/F.
 maya/S.
+mayaniste/S.
 maye/S.
 mayen/S.
 mayennaise/F.
@@ -50658,6 +50985,7 @@ méandre/S.
 méandreuse/W.
 méandriforme/S.
 méandrine/S.
+méandrique/S.
 méat/S.
 méatoscopie/S.
 mébibit/S.
@@ -50737,6 +51065,7 @@ médiagraphie/S.
 médiale/W.
 médialogie/S.
 médialogue/S.
+médiamaticienne/F.
 médiane/F.
 médianoche/S.
 médiante/S.
@@ -50887,6 +51216,7 @@ meistre/S.
 meitnérium/S.
 méjanage/S.
 méjuger/a0p+
+mektoub/S.
 mél
 melæna/S.
 mélæna/S.
@@ -51009,7 +51339,6 @@ mémorielle/F.
 mémorisable/S.
 mémorisation/S.
 mémoriser/a0p+
-m'en
 menaçante/F.
 menace/S.
 menacer/a0p+
@@ -51072,6 +51401,7 @@ mensongère/F.
 mensongèrement
 menstruation/S.
 menstrue
+menstruée/S.
 menstruelle/F.
 menstrues
 mensualisation/S.
@@ -51131,6 +51461,7 @@ merbau/X.
 merbromine/S.
 mercanti/S.
 mercantile/S.
+mercantilement
 mercantilisation/S.
 mercantiliser/a0p+
 mercantilisme/S.
@@ -51250,11 +51581,14 @@ mésestimation/S.
 mésestime/S.
 mésestimer/a0p+
 mésiale/W.
+mésinformation/S.
+mésinformer/a0p+
 mésintelligence/S.
 mésinterprétation/S.
 mésique/S.
 mesmérienne/F.
 mesmérisme/S.
+mésoaméricaine/F.
 mésoblaste/S.
 mésoblastique/S.
 mésocarpe/S.
@@ -51353,6 +51687,7 @@ métacarpienne/F.
 métacentre/S.
 métacentrique/S.
 métacercaire/S.
+métaclasse/S.
 métacognition/S.
 métaconnaissance/S.
 métadiégétique/S.
@@ -51465,6 +51800,7 @@ métazachlore/S.
 métazoaire/S.
 metconazole/S.
 méteil/S.
+métempirique/S.
 métempsychose/S.
 métempsycose/S.
 métencéphale/S.
@@ -51485,7 +51821,6 @@ météorologiste/S.
 météorologue/S.
 météoromancie/S.
 métèque/S.
-méthacrylate/S.
 méthacrylate/S.
 méthacrylique/S.
 méthadone/S.
@@ -51644,6 +51979,7 @@ mi-corps
 mi-côte
 mi-course
 micro/S.
+microagression/S.
 microalvéole/S.
 microampèremètre/S.
 micro-ampèremètre/S.
@@ -51713,6 +52049,7 @@ micro-électronique/S.
 micro-embranchement/S.
 microémulsion/S.
 microencapsulation/S.
+micro-entrepreneur/S.
 microentreprise/S.
 micro-entreprise/S.
 microévolution/S.
@@ -51732,6 +52069,7 @@ microfluidique/S.
 microfluidique/S.
 microfonction/S.
 microformat/S.
+microfuite/S.
 microglobuline/S.
 microglossaire/S.
 microgranite/S.
@@ -51801,12 +52139,16 @@ micropilule/S.
 microplaquette/S.
 micropli/S.
 microplissement/S.
+micropolluant/S.
 microporeuse/W.
 microprocesseur/S.
 microprogrammation/S.
 microprogramme/S.
 microprogrammée/F.
 micropropagation/S.
+micropuçage/S.
+micropuce/S.
+micropucer/a0p+
 micropyle/S.
 microröntgen/S.
 microsatellite/S.
@@ -51833,6 +52175,7 @@ micros-trottoirs
 microstructure/S.
 microsystème/S.
 microtechnologie/S.
+microter/a0p+
 microtome/S.
 microtonale/F.
 microtracteur/S.
@@ -51844,6 +52187,7 @@ microvillosité/S.
 microzoaire/S.
 miction/S.
 mictionnelle/F.
+mi-cuit/S.
 middleware/S.
 mi-décembre
 midi/S.
@@ -51927,6 +52271,7 @@ militarisme/S.
 militariste/S.
 militaro-économique/S.
 militaro-industrielle/F.
+militaro-sécuritaire/S.
 militer/a0p.
 milk-bar/S.
 milk-shake/S.
@@ -52028,6 +52373,7 @@ minéralisante/F.
 minéralisation/S.
 minéralisatrice/F.
 minéraliser/a0p+
+minéralité/S.
 minéralocorticoïde/S.
 minéralocorticoïde/S.
 minéralogie/S.
@@ -52057,6 +52403,7 @@ mini-cassette/S.
 minichaîne/S.
 mini-chaîne/S.
 minidisque/S.
+minidose/S.
 minière/F.
 minification/S.
 minifier/a0p+
@@ -52114,7 +52461,6 @@ minorer/a0p+
 minoritaire/S.
 minoritairement
 minorité/S.
-minot/S.
 minotaure/S.
 minoterie/S.
 minotière/F.
@@ -52269,6 +52615,7 @@ mixer/a0p+
 mixeuse/F.
 mixité/S.
 mixologie/S.
+mixologue/S.
 mixolydienne/F.
 mixte/S.
 mixte/S.
@@ -52779,6 +53126,7 @@ monotype/S.
 monovalente/F.
 monovariable/S.
 monovariante/F.
+monovoie/S=
 monoxène/S.
 monoxyde/S.
 monoxyle/S.
@@ -52814,9 +53162,9 @@ mont-de-piété
 monte/S.
 monte-charge
 montée/S.
+monte-en-l'air
 monte-fût
 monte-glace
-monte-meuble/S.
 monte-meuble/S.
 monte-meubles
 monténégrine/F.
@@ -52866,6 +53214,7 @@ moraine/S.
 morainique/S.
 morale/W.
 moralement
+moraline/S.
 moralisante/F.
 moralisation/S.
 moralisatrice/F.
@@ -53021,6 +53370,7 @@ mosellane/F.
 mosette/S.
 mosquée/S.
 mossi/S.
+mostelle/S.
 mot/S.
 motacillidé/S.
 motamoter/a0p.
@@ -53033,6 +53383,7 @@ motet/S.
 motif/S.
 motilité/S.
 motion/S.
+motion-design/S.
 motionner/a0p.
 motivante/F.
 motivation/S.
@@ -53205,6 +53556,7 @@ mouvance/S.
 mouvante/F.
 mouvement/S.
 mouvementer/a0p+
+mouvementiste/S.
 mouver/a0p+
 mouvoir/pHpI
 moviola/S.
@@ -53213,6 +53565,7 @@ moxibustion/S.
 moyée/F.
 moyen-âge
 moyenâgeuse/W.
+moyenâgeusement
 moyen-courrier/S.
 moyennabilité/S.
 moyennable/S.
@@ -53307,7 +53660,6 @@ multicœur/S.
 multicœur/S.
 multicolinéarité/S.
 multicolore/S.
-multicomposant/S.
 multicomposante/F.
 multicompte/S.
 multicomptes
@@ -53367,8 +53719,10 @@ multimillénaire/S.
 multimilliardaire/S.
 multimillionnaire/S.
 multimodale/W.
+multimodalité/S.
 multimode/S.
 multimoteur/S.
+multinationale/S.
 multinationale/W.
 multinationalisation/S.
 multinomiale/W.
@@ -53496,7 +53850,6 @@ mûrier/S.
 murine/F.
 mûrir/f0p+
 mûrissage/S.
-murissante/F.
 mûrissante/F.
 mûrissement/S.
 mûrisserie/S.
@@ -53586,6 +53939,7 @@ mussolinienne/F.
 must/S.
 mustang/S.
 mustélidé/S.
+mustelle/S.
 musulmane/F.
 mutabilité/S.
 mutable/S.
@@ -53667,6 +54021,7 @@ myélographie/S.
 myéloïde/S.
 myélome/S.
 myélopathie/S.
+myéloproliférative/F.
 myélosarcome/S.
 myélotoxique/S.
 mygale/S.
@@ -53678,6 +54033,7 @@ myocardite/S.
 myoclonie/S.
 myocyte/S.
 myodésopsie/S.
+myofasciite/S.
 myofibrille/S.
 myofilament/S.
 myoglobine/S.
@@ -53772,6 +54128,9 @@ myxomycète/S.
 myxovirus
 m²
 m³
+m'
+m'as-tu-vu
+m'en
 n
 na
 naan/S.
@@ -53845,6 +54204,7 @@ nanofiltre/S.
 nanomachine/S.
 nano-machine/S.
 nanomatériau/X.
+nanomédecine/S.
 nanométrique/S.
 nanoparticule/S.
 nano-particule/S.
@@ -53852,6 +54212,7 @@ nanophysique/S.
 nanoplancton/S.
 nanoréseau/X.
 nanorobot/S.
+nanosatellite/S.
 nanoscience/S.
 nanoscope/S.
 nanoscopie/S.
@@ -53941,6 +54302,7 @@ nasitort/S.
 nasonnement/S.
 nasopharynx
 nasse/S.
+nasser/a0p+
 nassérisme/S.
 nassériste/S.
 nastie/S.
@@ -54157,6 +54519,7 @@ négrophobe/S.
 négrophobie/S.
 negro-spiritual/S.
 néguentropie/S.
+néguentropique/S.
 néguer/a0p+
 negundo/S.
 négundo/S.
@@ -54230,6 +54593,7 @@ néofascisme/S.
 néo-fascisme/S.
 néofasciste/S.
 néo-fasciste/S.
+néoféminisme/S.
 néoformation/S.
 néoformée/F.
 néogène/S.
@@ -54245,6 +54609,7 @@ néo-impressionnisme/S.
 néo-impressionniste/S.
 néokantisme/S.
 néo-kantisme/S.
+néokeynésianisme/S.
 néolamarckienne/F.
 néolamarckisme/S.
 néolatine/F.
@@ -54444,6 +54809,7 @@ neuroendocrinienne/F.
 neuro-endocrinienne/F.
 neuroendocrinologie/S.
 neuro-endocrinologie/S.
+neuroendocrinologue/S.
 neurofibrille/S.
 neurofibromatose/S.
 neurofonctionnelle/F.
@@ -54464,6 +54830,7 @@ neurologique/S.
 neurologiquement
 neurologiste/S.
 neurologue/S.
+neurolyse/S.
 neuromédiateur/S.
 neuromédiation/S.
 neuromotrice/F.
@@ -54496,7 +54863,9 @@ neuropsychopharmacologie/S.
 neuroradiologie/S.
 neurorécepteur/S.
 neuroscience/S.
+neuroscientifique/S.
 neurosensorielle/F.
+neurotechnologie/S.
 neurotensine/S.
 neurotomie/S.
 neurotonie/S.
@@ -54587,6 +54956,7 @@ nib
 nibard/S.
 nicaraguayenne/F.
 niche/S.
+nichée/S.
 nicher/a0p+
 nichet/S.
 nicheuse/F.
@@ -54615,17 +54985,17 @@ nictitante/F.
 nictitation/S.
 nid/S.
 nidation/S.
-nid-d'abeilles
 nid-de-pie
 nid-de-poule
+nid-d'abeilles
 nidicole/S.
 nidification/S.
 nidificatrice/F.
 nidifier/a0p.
 nidifuge/S.
-nids-d'abeilles
 nids-de-pie
 nids-de-poule
+nids-d'abeilles
 nièce/S.
 niellage/S.
 nielle/S.
@@ -54663,7 +55033,6 @@ nimbostratus
 nimbo-stratus
 nimbus
 nîmoise/F.
-n'importe
 ninas
 ninja/S.
 ninjato/S.
@@ -54686,6 +55055,7 @@ niquer/a0p+
 niqueuse/F.
 nirvana/S.
 nitescence/S.
+nitouche/S.
 nitratation/S.
 nitrate/S.
 nitrater/a0p+
@@ -54710,6 +55080,7 @@ nitrogénase/S.
 nitrogène/S.
 nitroglycérine/S.
 nitrophile/S.
+nitrosamine/S.
 nitrosation/S.
 nitrosomonas
 nitrosyle/S.
@@ -54796,6 +55167,7 @@ noiseraie/S.
 noisetier/S.
 noisette
 noisette/S.
+noisettine/S.
 noix
 noli-me-tangere
 nolis
@@ -54997,6 +55369,7 @@ normoblaste/S.
 normographe/S.
 norois
 noroît/S.
+norovirus
 norroise/F.
 norvégienne/F.
 nos
@@ -55079,7 +55452,7 @@ nouvellement
 nouvelleté/S.
 nouvelliste/S.
 nov
-nova
+nova/S.
 novæ
 novation/S.
 novatoire/S.
@@ -55261,6 +55634,8 @@ nymphomanie/S.
 nymphoplastie/S.
 nymphose/S.
 nystagmus
+n'
+n'importe
 ô
 o
 o/||--
@@ -55291,6 +55666,7 @@ objectale/W*
 objecter/a2p+
 objecteur/S*
 objectif/S*
+objectifier/a0p+
 objection/S*
 objectivable/S*
 objectivation/S*
@@ -55546,6 +55922,7 @@ odontologiste/S*
 odontologue/S*
 odontomètre/S*
 odontostomatologie/S*
+odontostomatologue/S*
 odonyme/S*
 odonymie/S*
 odorante/F*
@@ -55718,6 +56095,7 @@ oiselle/S*
 oisellerie/S*
 oiseuse/W*
 oiseusement/D'Q'
+oisienne/F*
 oisillon/S*
 oisive/F*
 oisivement/D'Q'
@@ -55725,6 +56103,7 @@ oisiveté/S*
 oison/S*
 okapi/S*
 okoumé/S*
+oldowayenne/F*
 olé
 oléacée/S*
 oléacée/S*
@@ -55758,6 +56137,7 @@ oléoprotéagineux/L'D'Q'
 oléorésine/S*
 oléosome/S*
 oléum/S*
+oleuropéine/S*
 olfaction/S*
 olfactive/F*
 olfactivement/L'D'Q'
@@ -55843,7 +56223,6 @@ ombrer/a2p+
 ombrette/S*
 ombreuse/W*
 ombrienne/F*
-ombrienne/F*
 ombrière/S*
 ombrine/S*
 ombrophile/S*
@@ -55853,6 +56232,7 @@ oméga/L'D'Q'
 omelette/S*
 omerta/S*
 omettre/vA
+omeyyade/S*
 omicron/L'D'Q'
 omissible/S*
 omission/S*
@@ -55872,6 +56252,7 @@ omnisciente/F*
 omnisports/D'
 omnium/S*
 omnivore/S*
+omnivorisme/S*
 omoplate/S*
 omphacite/S*
 omphalite/S*
@@ -55975,6 +56356,7 @@ oolite/S*
 oolithe/S*
 oolithique/S*
 oolitique/S*
+oolong/S*
 oomycète/S*
 oosphère/S*
 oospore/S*
@@ -56199,8 +56581,10 @@ orbitalement/D'Q'
 orbite/S*
 orbiter/a1p.
 orbiteur/S*
+orbitofrontale/W*
 orbitographie/S*
 orbiton/S*
+orc/S*
 orcanette/S*
 orchestie/S*
 orchestique/S*
@@ -56257,6 +56641,7 @@ oreillette/S*
 oreillon/S*
 orémus/L'D'Q'
 ores/D'
+orexigène/S*
 orfèvre/S*
 orfévrée/F*
 orfèvrerie/S*
@@ -56294,7 +56679,9 @@ organologique/S*
 organomagnésien/S*
 organomagnésienne/F*
 organométallique/S*
+organo-métallique/S*
 organométallique/S*
+organon/S*
 organophosphoré/S*
 organophosphorée/F*
 organostannique/S*
@@ -56666,6 +57053,7 @@ ougandaise/F*
 ougaritique/S*
 ougrienne/F*
 ouguiya/S*
+ouh
 oui
 oui
 oui-da
@@ -56813,6 +57201,7 @@ ovogenèse/S*
 ovoïdale/W*
 ovoïde/S*
 ovoïde/S*
+ovoproduit/S*
 ovotestis
 ovovivipare/S*
 ovovivipare/S*
@@ -57062,7 +57451,6 @@ palée/S.
 palefrenière/F.
 palefroi/S.
 pâlement
-pâlement
 palémon/S.
 paléoanthropologie/S.
 paléo-anthropologie/S.
@@ -57119,7 +57507,6 @@ paletter/a0p+
 palettisable/S.
 palettisation/S.
 palettiser/a0p+
-palettiseur/S.
 palettiseur/S.
 palétuvier/S.
 pâleur/S.
@@ -57378,6 +57765,7 @@ panthéoniser/a0p+
 panthère/S.
 pantière/S.
 pantin/S.
+pantocrator
 pantographe/S.
 pantoire/S.
 pantoise/F.
@@ -57723,6 +58111,7 @@ pardon/S.
 pardonnable/S.
 pardonnante/F.
 pardonner/a0p+
+pardonneuse/F.
 paréage/S.
 pare-avalanches
 pare-balles
@@ -57911,8 +58300,11 @@ parrainage/S.
 parrainer/a0p+
 parraineuse/F.
 parricide/S.
+parsage/S.
 parsec/S.
 parsemer/b0p+
+parser/a0p+
+parseur/S.
 parsie/F.
 parsisme/S.
 part/S.
@@ -57926,7 +58318,6 @@ partance/S.
 partant
 partante/F.
 partenaire/S.
-partenariale/F.
 partenariale/W.
 partenariat/S.
 partènement/S.
@@ -57996,9 +58387,9 @@ pascale/F.
 pascalienne/F.
 pascaline/S.
 pascaux
-pas-d'âne
 pas-de-géant
 pas-de-porte
+pas-d'âne
 paseo/S.
 pashmina/S.
 pasionaria/S.
@@ -58128,6 +58519,7 @@ pastorat/S.
 pastorienne/F.
 pastoureau/X.
 pastourelle/S.
+pastrami/S.
 pat
 patache/S.
 patachon/S.
@@ -58455,6 +58847,7 @@ pédimane/S.
 pédiment/S.
 pédipalpe/S.
 pédiplaine/S.
+pédobaptisme/S.
 pédoclimatique/S.
 pédocriminalité/S.
 pédocriminelle/F.
@@ -58508,6 +58901,7 @@ peiner/a0p+
 peintre/S.
 peinture/S.
 peinturer/a0p+
+peinturlurage/S.
 peinturlurer/a0p+
 péjoration/S.
 péjorative/F.
@@ -58930,6 +59324,7 @@ péricyclique/S.
 périderme/S.
 péridot/S.
 péridotite/S.
+péridurale/S.
 péridurale/W.
 périe/F.
 périgée/S.
@@ -58988,6 +59383,7 @@ périphraser/a0p.
 périphrastique/S.
 périple/S.
 péripneumonie/S.
+périprothétique/S.
 périptère/S.
 périr/f0p.
 périscolaire/S.
@@ -59038,6 +59434,7 @@ perlouse/S.
 perlouze/S.
 perluète/S.
 perlure/S.
+permacirculaire/S.
 permacultrice/F.
 permaculture/S.
 permaculturelle/F.
@@ -59205,6 +59602,7 @@ pervertissement
 pervertisseuse/F.
 pervibrage/S.
 pervibrer/a0p+
+pervitine/S.
 pérylène/S.
 pesade/S.
 pesage/S.
@@ -59285,6 +59683,7 @@ pétaudière/S.
 pétaure/S.
 pétauriste/S.
 pet-de-nonne
+pet-de-sœur
 pétéchiale/W.
 pétéchie/S.
 péter/c0p+
@@ -59302,9 +59701,9 @@ petit-beurre
 petit-bois
 petit-bourgeois
 petit-boutiste/S.
-petit-déj'
 petit-déjeuner
 petit-déjeuner/a0p.
+petit-déj'
 petite/F.
 petite-bourgeoise
 petite-fille
@@ -59357,6 +59756,7 @@ pétrarquiste/S.
 pétrée/F.
 pétrel/S.
 pétreuse/W.
+pétrichor/S.
 pétrifiante/F.
 pétrification/S.
 pétrifier/a0p+
@@ -59390,6 +59790,7 @@ pétrologiste/S.
 pétrologue/S.
 pétromonarchie/S.
 pets-de-nonne
+pets-de-sœur
 petto
 pétulance/S.
 pétulante/F.
@@ -59434,6 +59835,7 @@ phagocytaire/S.
 phagocyte/S.
 phagocyter/a0p+
 phagocytose/S.
+phagothérapie/S.
 phalaenopsis
 phalange/S.
 phalanger/S.
@@ -59449,6 +59851,7 @@ phalère/S.
 phaléristique/S.
 phalline/S.
 phallique/S.
+phallocentrée/F.
 phallocentrique/S.
 phallocentrisme/S.
 phallocrate/S.
@@ -59571,6 +59974,7 @@ phéophycée/S.
 phéromonale/W.
 phéromone/S.
 phi
+philadelphe/S.
 philanthe/S.
 philanthrope/S.
 philanthropie/S.
@@ -59650,6 +60054,7 @@ phonétique/S.
 phonétique/S.
 phonétiquement
 phonétisation/S.
+phonétiser/a0p+
 phonétisme/S.
 phoniatre/S.
 phoniatrie/S.
@@ -59899,7 +60304,6 @@ phyllie/S.
 phyllite/S.
 phyllopode/S.
 phyllosilicate/S.
-phyllosilicate/S.
 phyllotaxie/S.
 phylloxera/S.
 phylloxéra/S.
@@ -59970,7 +60374,6 @@ phytoécologie/S.
 phytoépuration/S.
 phytogéographie/S.
 phytohormone/S.
-phytohormone/S.
 phyto-hormone/S.
 phytol/S.
 phytolithe/S.
@@ -59995,9 +60398,7 @@ phytotechnie/S.
 phytothérapeute/S.
 phytothérapie/S.
 phytotoxicité/S.
-phytotoxicité/S.
 phyto-toxicité/S.
-phytotoxique/S.
 phytotoxique/S.
 phyto-toxique/S.
 phytotron/S.
@@ -60079,7 +60480,6 @@ picrique/S.
 picris
 picrite/S.
 picrocholine/S.
-picrocholine/S.
 pics-bois
 pics-verts
 picte/S.
@@ -60099,7 +60499,6 @@ piécette/S.
 pied/S.
 pied-à-terre
 pied-bot
-pied-d'alouette
 pied-de-biche
 pied-de-cheval
 pied-de-chèvre
@@ -60107,8 +60506,9 @@ pied-de-loup
 pied-de-mouton
 pied-de-poule
 pied-de-veau
-pied-d'oiseau
 pied-droit
+pied-d'alouette
+pied-d'oiseau
 piédestal/X.
 pied-fort
 piedmont/S.
@@ -60117,7 +60517,6 @@ piédouche/S.
 pied-plat
 piédroit/S.
 pieds-bots
-pieds-d'alouette
 pieds-de-biche
 pieds-de-cheval
 pieds-de-chèvre
@@ -60125,8 +60524,9 @@ pieds-de-loup
 pieds-de-mouton
 pieds-de-poule
 pieds-de-veau
-pieds-d'oiseau
 pieds-droits
+pieds-d'alouette
+pieds-d'oiseau
 pieds-forts
 pieds-noirs
 pieds-plats
@@ -60169,6 +60569,7 @@ piétiste/S.
 piétonisation/S.
 piétonne/F.
 piétonnière/F.
+piétonniser/a0p+
 piètre/S.
 piètrement
 piètrerie/S.
@@ -60323,7 +60724,6 @@ pinnothère/S.
 pinnule/S.
 pinocytose/S.
 pinot/S.
-pin's
 pinson/S.
 pintade/S.
 pintadeau/X.
@@ -60332,6 +60732,7 @@ pinte/S.
 pinter/a0p+
 pin-up
 pinyin
+pin's
 piochage/S.
 pioche/S.
 piochement/S.
@@ -60360,6 +60761,7 @@ pipéridine/S.
 piperie/S.
 pipérine/S.
 pipéronal/S.
+pipetage/S.
 pipeter/d0p+
 pipette/S.
 pipeuse/F.
@@ -60786,6 +61188,7 @@ plécoptère/S.
 plecquer/a0p.
 plectre/S.
 pléiade/S.
+plein
 plein/S.
 pleine/F.
 pleinement
@@ -60810,6 +61213,7 @@ pléonasme/S.
 pléonaste/S.
 pléonastique/S.
 pléonastiquement
+pléonexie/S.
 plérôme/S.
 plésiomorphe/S.
 plésiomorphie/S.
@@ -60952,7 +61356,6 @@ pluriculturelle/F.
 pluridimensionnalité/S.
 pluridimensionnelle/F.
 pluridisciplinaire/S.
-pluridisciplinaire/S.
 pluri-disciplinaire/S.
 pluridisciplinarité/S.
 plurielle/F.
@@ -61084,6 +61487,7 @@ pœcilotherme/S.
 pœcilothermie/S.
 poêlage/S.
 poêle/S.
+poêlée/S.
 poêler/a0p+
 poêlier/S.
 poêlon/S.
@@ -61278,7 +61682,6 @@ pollakiurie/S.
 pollen/S.
 pollicitante/F.
 pollicitation/S.
-pollicitation/S.
 pollinie/S.
 pollinifère/S.
 pollinique/S.
@@ -61383,6 +61786,7 @@ polygraphe/S.
 polygraphie/S.
 polygraphique/S.
 polygynie/S.
+polyhandicap/S.
 polyhandicapée/F.
 polyholoside/S.
 polyimide/S.
@@ -61544,6 +61948,7 @@ pompière/F.
 pompiérisme/S.
 pompile/S.
 pompiste/S.
+pom-pom
 pompon/S.
 pomponner/a0p+
 ponant/S.
@@ -61599,8 +62004,8 @@ pontificat/S.
 pontifier/a0p.
 pontil/S.
 pontiller/a0p+
-pont-l'évêque
 pont-levis
+pont-l'évêque
 ponton/S.
 pontonnier/S.
 pont-promenade
@@ -61872,6 +62277,7 @@ post/S.
 post-abortum
 postage/S.
 postale/W.
+post-apocalyptique/S.
 postclassique/S.
 post-coïtale/W.
 postcoloniale/W.
@@ -61963,6 +62369,7 @@ postulatrice/F.
 postuler/a0p+
 posturale/W.
 posture/S.
+post-vérité/S.
 pot/S.
 potabilisation/S.
 potabilité/S.
@@ -62241,6 +62648,7 @@ préactionneur/S.
 préadamisme/S.
 préadamite/S.
 préadaptation/S.
+préado/S.
 préadolescence/S.
 pré-adolescence/S.
 préadolescente/F.
@@ -62404,14 +62812,17 @@ prééminence/S.
 prééminente/F.
 préempter/a0p+
 préemption/S.
+préemptive/F.
 préencollée/F.
 préenregistrée/F.
 préenregistrement/S.
+préenregistrer/a0p+
 préétablir/f0p+
 préexcellence/S.
 préexistante/F.
 préexistence/S.
 préexister/a0p.
+préfab/S.
 préfabrication/S.
 préfabriqué/S.
 préfabriquer/a0p+
@@ -62513,6 +62924,7 @@ prémaxillaire/S.
 prémédication/S.
 préméditation/S.
 préméditer/a0p+
+préménopause/S.
 prémenstruelle/F.
 prémessager/S.
 prémices
@@ -62600,6 +63012,8 @@ préquantification/S.
 préquelle/F.
 préraphaélisme/S.
 préraphaélite/S.
+prérapport/S.
+prérecrutement/S.
 préréglable/S.
 préréglage/S.
 prérégler/c0p+
@@ -62836,7 +63250,6 @@ prière/S.
 prieure/F.
 prieuré/S.
 prieuse/S.
-prim'Holstein
 prima-donna/I.
 primage/S.
 primaire/S.
@@ -62874,6 +63287,7 @@ primitiviste/S.
 primitivité/S.
 primo
 primo-accédante/F.
+primo-arrivante/F.
 primo-délinquance/S.
 primo-délinquante/F.
 primogéniture/S.
@@ -62882,6 +63296,7 @@ primordiale/W.
 primordialement
 primordialité/S.
 primulacée/S.
+prim'Holstein
 prince-de-galles
 prince-de-galles
 princeps
@@ -63117,6 +63532,7 @@ prognathisme/S.
 prognose/S.
 prognostique/S.
 progouvernementale/W.
+prograde/S.
 programmabilité/S.
 programmable/S.
 programmathèque/S.
@@ -63161,6 +63577,7 @@ prolapsus
 prolatif/S.
 prolégomènes
 prolepse/S.
+proleptique/S.
 prolétaire/S.
 prolétairement
 prolétariat/S.
@@ -63321,6 +63738,7 @@ prorata
 prorogation/S.
 prorogative/F.
 proroger/a0p+
+prorusse/S.
 prosaïque/S.
 prosaïquement
 prosaïsme/S.
@@ -63353,6 +63771,7 @@ prospectable/S.
 prospecter/a0p+
 prospection/S.
 prospective/F.
+prospective/S.
 prospectiviste/S.
 prospectrice/F.
 prospectus
@@ -63408,8 +63827,8 @@ protège-tibia/S.
 protéide/S.
 protéiforme/S.
 protéine/S.
-protéinée/F.
 protéinémie/S.
+protéiner/a0p+
 protéinique/S.
 protéinogène/S.
 protéinogramme/S.
@@ -63575,14 +63994,14 @@ prudence/S.
 prudente/F.
 prudentielle/F.
 pruderie/S.
-prud'homale/W.
-prud'homie/S.
 prudhommale/W.
 prudhomme/S.
-prud'homme/S.
 prudhommerie/S.
 prudhommesque/S.
 prudhommie/S.
+prud'homale/W.
+prud'homie/S.
+prud'homme/S.
 pruine/S.
 prune
 prune/S.
@@ -63812,7 +64231,6 @@ ptérygoïde/S.
 ptérygoïdienne/F.
 ptérygote/S.
 ptérygotus
-p'tite/F.
 ptolémaïque/S.
 ptoléméenne/F.
 ptomaïne/S.
@@ -63899,8 +64317,9 @@ puisatier/S.
 puisement/S.
 puiser/a0p+
 puisette/S.
-puisqu/--
+puisqu
 puisque
+puisqu'/--
 puissamment
 puissance/S.
 puissante/F.
@@ -63954,6 +64373,7 @@ punaiser/a0p+
 punch/S.
 puncheuse/F.
 punching-ball/S.
+punchline/S.
 puncture/S.
 punique/S.
 punir/f0p+
@@ -64047,6 +64467,7 @@ putting/S.
 putto/I.
 puvathérapie/S.
 puy/S.
+puydomoise/F.
 puzzle/S.
 px/||--
 pycnogonide/S.
@@ -64174,6 +64595,7 @@ pythonisse/S.
 pyurie/S.
 pyxide/S.
 pz/||--
+p'tite/F.
 q
 qPCR
 qanat/S.
@@ -64182,7 +64604,7 @@ qatarie/F.
 qatarienne/F.
 qbit/S.
 qi
-qu/--
+qu
 qua
 quad/S.
 quadra
@@ -64234,6 +64656,7 @@ quadriplace/S.
 quadriplégie/S.
 quadripolaire/S.
 quadripôle/S.
+quadriptyque/S.
 quadrique/S.
 quadrique/S.
 quadriréacteur/S.
@@ -64296,6 +64719,8 @@ quantitative/F.
 quantitativement
 quantité/S.
 quanton/S.
+quantophrénie/S.
+quantophrénique/S.
 quantum/I.
 quarantaine/S.
 quarante
@@ -64392,7 +64817,6 @@ quatre-vingt-dix
 quatre-vingt-dix-huit
 quatre-vingt-dix-huitième/S.
 quatre-vingt-dixième/S.
-quatre-vingt-dixième/S.
 quatre-vingt-dix-neuf
 quatre-vingt-dix-neuvième/S.
 quatre-vingt-dix-sept
@@ -64444,19 +64868,18 @@ queen/S.
 queer/S.
 quelconque/S.
 quelle/F.
-quelqu/--
+quelqu
 quelque
-quelque/S.
 quelque/S.
 quelquefois
 quelques-unes
 quelques-uns
+quelqu'/--
 quelqu'un
 quelqu'une
 quémande/S.
 quémander/a0p+
 quémandeuse/F.
-qu'en-dira-t-on
 quenelle/S.
 quenotte/S.
 quenouille/S.
@@ -64476,6 +64899,7 @@ quérulente/F.
 quesadilla/S.
 questeur/S.
 question/S.
+questionnable/S.
 questionnaire/S.
 questionnement/S.
 questionner/a0p+
@@ -64492,20 +64916,20 @@ quetter/a0p+
 quetzal/S.
 quetzales
 queue/S.
-queue-d'aronde
 queue-de-cheval
 queue-de-cochon
 queue-de-morue
 queue-de-pie
 queue-de-rat
 queue-de-renard
-queues-d'aronde
+queue-d'aronde
 queues-de-cheval
 queues-de-cochon
 queues-de-morue
 queues-de-pie
 queues-de-rat
 queues-de-renard
+queues-d'aronde
 queuillère/S.
 queursage/S.
 queusot/S.
@@ -64537,6 +64961,7 @@ quilleuse/F.
 quillier/S.
 quillon/S.
 quimper/a0p.
+quimpéroise/F.
 quinaire/S.
 quinaire/S.
 quinaude/F.
@@ -64606,8 +65031,9 @@ quoailler
 quoc-ngu
 quôc-ngu
 quoi
-quoiqu/--
+quoiqu
 quoique
+quoiqu'/--
 quolibet/S.
 quorum/S.
 quota/S.
@@ -64619,6 +65045,8 @@ quotidienneté/S.
 quotient/S.
 quotité/S.
 quotter/a0p.
+qu'/--
+qu'en-dira-t-on
 qwerty
 r
 ra
@@ -64629,6 +65057,7 @@ rabâcher/a0p+
 rabâcherie/S.
 rabâcheuse/F.
 rabais
+rabaissante/F.
 rabaissement/S.
 rabaisser/a0p+
 raban/S.
@@ -64792,6 +65221,7 @@ radicalement
 radicale-socialiste
 radicales-socialistes
 radicalisation/S.
+radicalisée/F.
 radicaliser/a0p+
 radicalisme/S.
 radicalité/S.
@@ -64990,6 +65420,7 @@ rage/S.
 rageante/F.
 rager/a0p.
 rageuse/F.
+rageuse/W.
 rageusement
 raggamuffin/S.
 raglan/S.
@@ -64998,7 +65429,6 @@ ragot/S.
 ragoter/a0p.
 ragougnasse/S.
 ragoût/S.
-ragoutante/F.
 ragoûtante/F.
 ragoûter/a0p+
 ragrafer/a0p+
@@ -65258,7 +65688,7 @@ rapportable/S.
 rapportage/S.
 rapporter/a0p+
 rapporteuse/F.
-rapprendre
+rapprendre/tF
 rapprochement/S.
 rapprocher/a0p+
 rapproprier/a0p+
@@ -65350,6 +65780,7 @@ ratière/F.
 ratification/S.
 ratifier/a0p+
 ratinage/S.
+ratine/S.
 ratiner/a0p+
 rating/S.
 ratio/S.
@@ -65482,6 +65913,7 @@ réacteur/S.
 réaction/S.
 réactionnaire/S.
 réactionnelle/F.
+réactivable/S.
 réactivation/S.
 réactive/F.
 réactiver/a0p+
@@ -65507,7 +65939,6 @@ réagencer/a0p+
 réagir/f0p.
 réajustement/S.
 réajuster/a0p+
-réal/X.
 réale/W.
 réalésage/S.
 réaléser/c0p+
@@ -65527,6 +65958,7 @@ réalistement
 réalité/S.
 reality-show/S.
 réallocation/S.
+réallouer/a0p+
 realpolitik/S.
 réalpolitik/S.
 réaménagement/S.
@@ -65676,6 +66108,7 @@ recenseuse/F.
 recension/S.
 récente/F.
 recentrage/S.
+recentralisation/S.
 recentrement/S.
 recentrer/a0p+
 recepage/S.
@@ -65831,6 +66264,7 @@ recompresser/a0p+
 recompression/S.
 recomptage/S.
 recompter/a0p+
+reconcentrer/a0p+
 réconciliable/S.
 réconciliation/S.
 réconciliatrice/F.
@@ -66091,6 +66525,7 @@ redondée/F.
 redonder/a0p.
 redonner/a0p+
 redorer/a0p+
+redormir/iI
 redorte/S.
 redoublante/F.
 redoublement/S.
@@ -66160,6 +66595,7 @@ réenfourcher/a0p+
 réengagement/S.
 réengager/a0p+
 réengendrer/a0p+
+réenracinement/S.
 réenregistrable/S.
 réenregistrement/S.
 réenregistrer/a0p+
@@ -66180,6 +66616,7 @@ réescompter/a0p+
 réescompteur/S.
 réessayage/S.
 réessayer/a0p+
+réétalonner/a0p+
 réétudier/a0p+
 réévaluation/S.
 réévaluer/a0p+
@@ -66199,6 +66636,7 @@ refacturation/S.
 refacturer/a0p+
 refaire/wD
 réfection/S.
+réfectionner/a0p+
 réfectoire/S.
 refend/S.
 refendeuse/F.
@@ -66206,6 +66644,7 @@ refendre/tA
 refente/S.
 référé/S.
 référé-liberté
+référençable/S.
 référence/S.
 référencement/S.
 référencer/a0p+
@@ -66469,6 +66908,7 @@ réhydrater/a0p+
 reichsmark/S.
 réification/S.
 réifier/a0p+
+reiki/S.
 réimperméabilisation/S.
 réimperméabiliser/a0p+
 réimplantation/S.
@@ -66506,6 +66946,7 @@ reinette/S.
 réinfecter/a0p+
 réinfection/S.
 réinformation/S.
+réinformer/a0p+
 réinitialisation/S.
 réinitialiser/a0p+
 réinjecter/a0p+
@@ -66583,6 +67024,7 @@ relarguer/a0p+
 relater/a0p+
 relation/S.
 relationnelle/F.
+relationnellement
 relationner/a0p+
 relationniste/S.
 relative/F.
@@ -66608,6 +67050,7 @@ relecture/S.
 relégable/S.
 relégation/S.
 relégiférer/c0p+
+relégitimation/S.
 relégitimer/a0p+
 reléguer/c0p+
 relent/S.
@@ -66621,6 +67064,7 @@ relevé/S.
 relèvement/S.
 relever/b0p+
 releveuse/F.
+reliable/S.
 reliage/S.
 relictuelle/F.
 relief/S.
@@ -66872,6 +67316,7 @@ rendu/S.
 rendzine/S.
 rêne/S.
 renégate/F.
+renégociable/S.
 renégociation/S.
 renégocier/a0p+
 reneiger/a8p.
@@ -67007,6 +67452,7 @@ réorganiser/a0p+
 réorientation/S.
 réorienter/a0p+
 réouverture/S.
+réovirus
 réoxydation/S.
 réoxygéner/c0p+
 repaire/S.
@@ -67124,6 +67570,7 @@ repolir/f0p+
 repolissage/S.
 repolitisation/S.
 repolymériser/a0p+
+reponctuer/a0p+
 répondante/F.
 répondeur/S.
 répondeuse/F.
@@ -67132,6 +67579,7 @@ répons
 réponse/S.
 repopulation/S.
 report/S.
+reportable/S.
 reportage/S.
 reporter/S.
 reporter/a0p+
@@ -67622,6 +68070,7 @@ rétrocéder/c0p+
 rétrocession/S.
 rétrocessionnaire/S.
 rétrochargeuse/S.
+rétrocognition/S.
 rétrocommission/S.
 rétrocompatibilité/S.
 rétrocompatible/S.
@@ -67677,6 +68126,7 @@ rétroversion/S.
 rétrovirale/W.
 rétrovirus
 rétroviseur/S.
+rétrovision/S.
 rets
 retuber/a0p+
 retweet/S.
@@ -68062,7 +68512,6 @@ riffauder/a0p+
 rififi/S.
 riflard/S.
 rifle/S.
-rifle/S.
 rifler/a0p+
 riflette/S.
 rifloir/S.
@@ -68141,8 +68590,8 @@ ripolin/S.
 ripoliner/a0p+
 riposte/S.
 riposter/a0p+
-ripou/X.
-ripous
+ripou/S.
+ripoux
 ripper/S.
 ripple-mark/S.
 ripuaire/S.
@@ -68167,6 +68616,7 @@ rissoler/a0p+
 rissolette/S.
 ristourne/S.
 ristourner/a0p+
+ristretto/S.
 ritale/F.
 rite/S.
 ritournelle/S.
@@ -68220,8 +68670,6 @@ robespierriste/S.
 robin/S.
 robine/S.
 robinet/S.
-robinetier/S.
-robinétier/S.
 robinetière/F.
 robinetterie/S.
 robineuse/W.
@@ -68264,6 +68712,7 @@ rocker/S.
 rocket/S.
 rockeuse/F.
 rocking-chair/S.
+rockstar/S.
 rock'n'roll
 rococo/S.
 rococo/S.
@@ -68629,7 +69078,6 @@ routage/S.
 routarde/F.
 route/S.
 router/a0p+
-routeur/S.
 routeuse/F.
 routière/F.
 routine/S.
@@ -68675,6 +69123,7 @@ rubidium/S.
 rubiette/S.
 rubigineuse/W.
 rubis
+rubricarde/F.
 rubrique/S.
 ruche/S.
 ruché/S.
@@ -68742,6 +69191,7 @@ runabout/S.
 rune/S.
 runiforme/S.
 runique/S.
+running/S.
 runologue/S.
 ruolz
 rupestre/S.
@@ -68820,7 +69270,6 @@ s
 s/U.||--
 sa
 saanen/S.
-s'abader
 sabayon/S.
 sabbat/S.
 sabbathienne/F.
@@ -68862,7 +69311,6 @@ sabre/S.
 sabrer/a0p+
 sabretache/S.
 sabreuse/F.
-s'abriller
 saburrale/W.
 saburre/S.
 sac/S.
@@ -68946,6 +69394,7 @@ sacrum/S.
 sacs-poubelle
 sadd/S.
 sadducéenne/F.
+sadhu/S.
 sadico-anale/W.
 sadique/S.
 sadiquement
@@ -68974,7 +69423,6 @@ sagement
 sages-femmes
 sagesse/S.
 sagette/S.
-s'agir/fZ
 sagittaire/S.
 sagittale/W.
 sagittée/F.
@@ -69147,7 +69595,6 @@ salomé/S.
 salon/S.
 salonguer/a0p.
 salonnarde/F.
-salonnarde/F.
 salonnière/F.
 saloon/S.
 salop/S.
@@ -69271,6 +69718,7 @@ sanguine/F.
 sanguinolente/F.
 sanguisorbe/S.
 sanhédrin/S.
+sanibroyeur/S.
 sanicle/S.
 sanidine/S.
 sanie/S.
@@ -69401,6 +69849,7 @@ sarcoïdose/S.
 sarcologie/S.
 sarcomateuse/W.
 sarcome/S.
+sarcopénie/S.
 sarcophage/S.
 sarcoplasme/S.
 sarcoplasmique/S.
@@ -69597,7 +70046,6 @@ sauvetage/S.
 sauveté/S.
 sauveteuse/F.
 sauvette
-sauveur/S.
 sauveuse/F.
 sauvignon/S.
 savagnin/S.
@@ -69705,6 +70153,7 @@ scatologique/S.
 scatophage/S.
 scatophage/S.
 scatophile/S.
+scatophilie/S.
 sceau/X.
 sceau-de-Salomon
 sceaux-de-Salomon
@@ -70097,12 +70546,15 @@ séculière/F.
 séculièrement
 secundo
 sécure/S.
+sécurine/S.
 sécurisante/F.
 sécurisation/S.
 sécuriser/a0p+
 sécuritaire/S.
+sécuritairement
 sécuritarisme/S.
 sécurité/S.
+sédater/a0p+
 sédation/S.
 sédative/F.
 sédénion/S.
@@ -70166,6 +70618,7 @@ sein/S.
 seine/S.
 seinen/S.
 seing/S.
+seinomarine/F.
 séisme/S.
 séismicité/S.
 séismique/S.
@@ -70399,6 +70852,7 @@ sensitométrie/S.
 sensitométrique/S.
 sensorialité/S.
 sensorielle/F.
+sensoriellement
 sensorimétrie/S.
 sensorimétrique/S.
 sensorimotrice/F.
@@ -70431,6 +70885,7 @@ sépale/S.
 sépaloïde/S.
 séparabilité/S.
 séparable/S.
+séparase/S.
 séparation/S.
 séparatisme/S.
 séparatiste/S.
@@ -70503,6 +70958,7 @@ séquence/S.
 séquencement/S.
 séquencer/a0p+
 séquenceur/S.
+séquencier/S.
 séquentialité/S.
 séquentielle/F.
 séquentiellement
@@ -70555,6 +71011,7 @@ sergents-majors
 sergette/S.
 sérialisation/S.
 sérialiser/a0p+
+sérialiseur/S.
 sérialisme/S.
 sérialité/S.
 sériation/S.
@@ -70700,7 +71157,6 @@ sesterce/S.
 set/S.
 sétacée/F.
 sétaire/S.
-sétaire/S.
 setar/S.
 setier/S.
 sétifère/S.
@@ -70717,7 +71173,7 @@ seventies
 sévère/S.
 sévèrement
 sévérité/S.
-sévices
+sévice/S.
 sévir/f0p.
 sevrage/S.
 sevrer/b0p+
@@ -70812,6 +71268,7 @@ shirt/S.
 shit/S.
 shivaïsme/S.
 shivaïte/S.
+shlag/S.
 shocking
 shogun/S.
 shogunale/W.
@@ -70973,6 +71430,7 @@ siliciure/S.
 silicomanganèse/S.
 silicone/S.
 siliconer/a0p+
+siliconose/S.
 silicose/S.
 silicotique/S.
 silicule/S.
@@ -71048,6 +71506,7 @@ sincèrement
 sincérité/S.
 sincipitale/W.
 sinciput/S.
+sindhi/S.
 sine
 sinécure/S.
 singalette/S.
@@ -71154,6 +71613,7 @@ sitcom/S.
 site/S.
 sit-in
 sitogoniomètre/S.
+sitographie/S.
 sitologie/S.
 sitone/S.
 sitôt
@@ -71183,7 +71643,9 @@ skarn/S.
 skate/S.
 skateboard/S.
 skate-board/S.
+skatepark/S.
 skater/S.
+skater/a0p.
 skateuse/F.
 skating/S.
 skeleton/S.
@@ -71335,10 +71797,13 @@ socio-anthropologie/S.
 sociobiologie/S.
 sociobiologique/S.
 sociobiologiste/S.
+socio-comportementale/F.
 sociocratie/S.
 sociocratique/S.
 socioculturelle/F.
 socio-culturelle/F.
+sociodémographique/S.
+socio-démographique/S.
 sociodrame/S.
 socio-économique/S.
 socio-éducative/F.
@@ -71366,6 +71831,7 @@ sociomédicale/F.
 socio-médicale/F.
 sociométrie/S.
 sociométrique/S.
+socio-organisationnelle/F.
 sociopathe/S.
 sociopathie/S.
 sociopathique/S.
@@ -71383,6 +71849,7 @@ socque/S.
 socquette/S.
 socratique/S.
 socratiser/a0p.
+socratisme/S.
 soda/S.
 sodalite/S.
 sodalité/S.
@@ -71694,7 +72161,6 @@ soporifique/S.
 soporifique/S.
 sopraniste/S.
 soprano/I.
-soprano/S.
 soquet/S.
 soqueter/d0p.
 sorabe/S.
@@ -72060,6 +72526,7 @@ sous-tension/S.
 sous-titrage/S.
 sous-titre/S.
 sous-titrer/a0p+
+sous-titreuse/F.
 soustracteur/S.
 soustraction/S.
 soustractive/F.
@@ -72452,6 +72919,7 @@ sprint/S.
 sprinter/S.
 sprinter/a0p.
 sprinteuse/F.
+spritz
 sprue/S.
 spumescente/F.
 spumeuse/W.
@@ -72534,7 +73002,6 @@ staminode/S.
 stance/S.
 stand/S.
 standard
-standard/S.
 standard/S.
 standard/S.
 standardisation/S.
@@ -72773,6 +73240,7 @@ stigmatisation/S.
 stigmatiser/a0p+
 stigmatisme/S.
 stilb/S.
+stiletto/S.
 stillation/S.
 stillatoire/S.
 stilligoutte/S.
@@ -73146,6 +73614,7 @@ subsomption/S.
 subsonique/S.
 subspontanée/F.
 substance/S.
+substanter/a0p+
 substantialisme/S.
 substantialiste/S.
 substantialité/S.
@@ -73289,6 +73758,7 @@ suggestivement
 suggestivité/S.
 sui
 suicidaire/S.
+suicidalité/S.
 suicide/S.
 suicidée/F.
 suicider/a0p+
@@ -73383,6 +73853,8 @@ supercalculateur/S.
 supercarburant/S.
 supercarré/S.
 supercavitante/F.
+supercellulaire/S.
+supercellule/S.
 supercentenaire/S.
 superchampionne/F.
 supercherie/S.
@@ -73444,7 +73916,6 @@ superman/A.
 supermarché/S.
 supermassive/F.
 supermolécule/S.
-supernova
 supernova/S.
 supernovæ
 superordinateur/S.
@@ -73520,6 +73991,7 @@ support/S.
 supportable/S.
 supporter/S.
 supporter/a0p+
+supportérisme/S.
 supportrice/F.
 supposable/S.
 supposément
@@ -73811,6 +74283,7 @@ surmédicaliser/a0p+
 surmenage/S.
 surmener/b0p+
 sur-mesure
+surmobilisation/S.
 surmodulation/S.
 surmoi
 sur-moi
@@ -73840,6 +74313,7 @@ surnommer/a0p+
 surnoter/a0p+
 surnuméraire/S.
 surnumérariat/S.
+suroccupation/S.
 suroffre/S.
 suroît/S.
 suros
@@ -73897,6 +74371,7 @@ surréaliste/S.
 surréalité/S.
 surrection/S.
 surréelle/F.
+surréférencer/a0p+
 surrégénérateur/S.
 surrégime/S.
 surrénale/W.
@@ -73932,7 +74407,7 @@ surtaxation/S.
 surtaxe/S.
 surtaxer/a0p+
 surtempérature/S.
-surtendre
+surtendre/tA
 surtension/S.
 surtitrage/S.
 surtitre/S.
@@ -74131,6 +74606,7 @@ synapomorphie/S.
 synapse/S.
 synapside/S.
 synapsie/S.
+synapsis
 synaptase/S.
 synaptique/S.
 synarchie/S.
@@ -74274,6 +74750,10 @@ systolique/S.
 systyle/S.
 systyle/S.
 syzygie/S.
+s'
+s'abader
+s'abriller
+s'agir/fZ
 t
 t/||--
 ta
@@ -74612,6 +75092,8 @@ tapenade/S.
 taper/a0p+
 tapette/S.
 tapeuse/F.
+taphonomie/S.
+taphonomiste/S.
 taphophilie/S.
 tapin/S.
 tapiner/a0p.
@@ -74847,6 +75329,7 @@ tchadri/S.
 tchao
 tchapalo/S.
 tcharchaf/S.
+tchat/S.
 tchatche/S.
 tchatcher/a0p.
 tchatcheuse/F.
@@ -75147,7 +75630,6 @@ télicité/S.
 tell/S.
 telle/F.
 telle/F.
-t'elle/S=
 tellement
 tellière/S.
 tellière/S.
@@ -75206,7 +75688,6 @@ temporiser/a0p+
 temporo-pariétale/F.
 temps
 temps-réel
-t'en
 tenable/S.
 tenace/S.
 tenacement
@@ -75347,6 +75828,7 @@ tergal/S.
 tergite/S.
 tergiversation/S.
 tergiverser/a0p.
+teriyaki/S.
 termaillage/S.
 terme/S.
 terminaison/S.
@@ -75565,7 +76047,6 @@ teufs-teufs
 teuf-teuf
 teutonique/S.
 teutonne/F.
-tex
 tex/||--
 texane/F.
 tex-mex
@@ -75613,6 +76094,7 @@ thaumaturge/S.
 thaumaturgie/S.
 thaumaturgique/S.
 thé/S.
+théandrique/S.
 théatin/S.
 théâtrale/W.
 théâtralement
@@ -75688,6 +76170,7 @@ thérapeutique/S.
 thérapeutiquement
 thérapie/S.
 thérapside/S.
+thérémine/S.
 thérianthrope/S.
 thérianthropie/S.
 thériaque/S.
@@ -75747,7 +76230,6 @@ thermogenèse/S.
 thermogénie/S.
 thermogénique/S.
 thermogramme/S.
-thermogramme/S.
 thermographe/S.
 thermographie/S.
 thermographique/S.
@@ -75774,7 +76256,6 @@ thermonastie/S.
 thermonucléaire/S.
 thermophile/S.
 thermophobie/S.
-thermophysique/S.
 thermophysique/S.
 thermopile/S.
 thermoplaste/S.
@@ -75935,7 +76416,6 @@ thyrotrophine/S.
 thyroxine/S.
 thyrse/S.
 thysanoptère/S.
-thysanoptère/S.
 thysanoure/S.
 tian/S.
 tiare/S.
@@ -75947,7 +76427,6 @@ tibétologue/S.
 tibia/S.
 tibiale/W.
 tibiotarsienne/F.
-tibio-tarsienne/F.
 tibio-tarsienne/F.
 tic/S.
 tichodrome/S.
@@ -75991,7 +76470,6 @@ tigridie/S.
 tigron/S.
 tiguidou/S.
 tiki/S.
-t'il/S=
 tilapia/S.
 tilbury/S.
 tilde/S.
@@ -76064,30 +76542,24 @@ tirant/S.
 tire/S.
 tire-au-cul
 tire-au-flanc
-tire-balle
 tire-balle/S.
 tire-balles
-tire-bonde
 tire-bonde/S.
 tire-bondes
-tire-botte
 tire-botte/S.
 tire-bottes
 tire-bouchon/S.
 tire-bouchonner/a0p+
 tire-bourre
-tire-bouton
 tire-bouton/S.
 tire-boutons
 tire-braise
-tire-clou
 tire-clou/S.
 tire-clous
 tire-crins
 tire-d'aile
 tire-fesses
 tire-feu
-tire-filet
 tire-filet/S.
 tire-filets
 tire-fond
@@ -76101,14 +76573,11 @@ tire-lignes
 tirelire/S.
 tire-lisse
 tire-l'œil
-tire-pied
 tire-pied/S.
 tire-pieds
 tirer/a0p+
-tire-sac
 tire-sac/S.
 tire-sacs
-tire-sou
 tire-sou/S.
 tire-sous
 tiret/S.
@@ -76154,6 +76623,7 @@ titanite/S.
 titanosaure/S.
 titi/S.
 titillation/S.
+titillement/S.
 titiller/a0p+
 titisme/S.
 titiste/S.
@@ -76275,7 +76745,6 @@ tomographe/S.
 tomographie/S.
 tomographique/S.
 tom-pouce
-t'on
 ton
 ton/S.
 tonale/F.
@@ -76546,6 +77015,7 @@ tourbillonner/a0p.
 tourd/S.
 tourdille/S.
 tourelle/S.
+tourelleau/X.
 touret/S.
 tourie/S.
 tourière/F.
@@ -76577,7 +77047,6 @@ tourne-feuille
 tournelle/S.
 tournemain/S.
 tourne-oreille
-tourne-pierre
 tourne-pierre/S.
 tourne-pierres
 tourner/a0p+
@@ -76869,6 +77338,7 @@ transcendantalement
 transcendantalisme/S.
 transcendantaliste/S.
 transcendante/F.
+transcendement/S.
 transcender/a0p+
 transclasse/S.
 transcodage/S.
@@ -76876,6 +77346,7 @@ transcoder/a0p+
 transcodeur/S.
 transconductance/S.
 transcontinentale/W.
+transcrânienne/F.
 transcriptase/S.
 transcription/S.
 transcriptionnelle/F.
@@ -76937,6 +77408,7 @@ transgresser/a0p+
 transgresseur/S.
 transgression/S.
 transgressive/F.
+transhistorique/S.
 transhumance/S.
 transhumanisme/S.
 transhumaniste/S.
@@ -76948,6 +77420,7 @@ transigeance/S.
 transiger/a0p.
 transilienne/F.
 transillumination/S.
+transindividuelle/F.
 transir/f0p+
 transistor/S.
 transistorisation/S.
@@ -77457,6 +77930,7 @@ trilobée/F.
 trilobite/S.
 triloculaire/S.
 trilogie/S.
+trilogue/S.
 trimaran/S.
 trimard/S.
 trimarder/a0p+
@@ -77563,6 +78037,7 @@ tripolitaine/F.
 triporteur/S.
 tripot/S.
 tripotage/S.
+tripotée/S.
 tripoter/a0p+
 tripoteuse/F.
 tripoux
@@ -77898,8 +78373,8 @@ tudesque/S.
 tudieu
 tue-chien
 tue-diable
-tue-l'amour
 tue-loup
+tue-l'amour
 tue-mouche
 tue-mouches
 tuer/a0p+
@@ -78082,6 +78557,8 @@ tweed/S.
 tweet/S.
 tweeter/S.
 tweeter/a0p+
+twerk/S.
+twerker/a0p.
 twin-set/S.
 twirling/S.
 twist/S.
@@ -78153,6 +78630,11 @@ tzar/S.
 tzarine/S.
 tzatziki/S.
 tzigane/S.
+t'
+t'elle/S=
+t'en
+t'il/S=
+t'on
 u
 u/||--
 ua/||--
@@ -78285,6 +78767,7 @@ ultra-sonore/S*
 ultrastructure/S*
 ultravide/S*
 ultraviolence/S*
+ultraviolente/F*
 ultraviolet/S*
 ultra-violet/S*
 ultraviolette/F*
@@ -78309,6 +78792,7 @@ unciforme/S*
 uncinée/F*
 underground/L'D'Q'
 underground/S*
+underscore/S*
 une/D'Q'Q*
 une/F*
 unetelle/S*
@@ -78511,6 +78995,7 @@ urologique/S*
 urologue/S*
 uromètre/S*
 uronique/S*
+urophilie/S*
 uropode/S*
 uropygiale/W*
 uropygienne/F*
@@ -78775,6 +79260,7 @@ vanadium/S.
 vancomycine/S.
 vanda/S.
 vandale/S.
+vandalisation/S.
 vandaliser/a0p+
 vandalisme/S.
 vandoise/S.
@@ -79437,6 +79923,7 @@ viable/S.
 viaduc/S.
 viagère/F.
 viagra/S.
+viandarde/F.
 viande/S.
 viander/a0p+
 viatique/S.
@@ -79709,6 +80196,7 @@ vinylidénique/S.
 vinylique/S.
 vinylite/S.
 vioc/S.
+viognier/S.
 viol/S.
 violable/S.
 violacer/a0p+
@@ -79749,6 +80237,7 @@ viralité/S.
 vire/S.
 virée/S.
 virelai/S.
+virelangue/S.
 virement/S.
 virémie/S.
 virer/a0p+
@@ -79803,6 +80292,7 @@ virtuose/S.
 virtuosisme/S.
 virtuosité/S.
 virucide/S.
+virulemment
 virulence/S.
 virulente/F.
 virure/S.
@@ -79838,6 +80328,7 @@ visiocasque/S.
 visioconférence/S.
 vision/S.
 visionique/S.
+visionnable/S.
 visionnage/S.
 visionnaire/S.
 visionnement/S.
@@ -79967,6 +80458,7 @@ vivrière/F.
 vizir/S.
 vizirat/S.
 vlan
+vlog/S.
 vobulateur/S.
 vocable/S.
 vocabulaire/S.
@@ -80039,6 +80531,7 @@ volailleuse/F.
 volant/S.
 volante/F.
 volapük/S.
+volatibilité/S.
 volatile/F.
 volatile/S.
 volatilisable/S.
@@ -80327,6 +80820,7 @@ webcam/S.
 webcaméra/S.
 webdesign/S.
 weber/Um
+webinaire/S.
 weblog/S.
 webmestre/S.
 webmestrie/S.
@@ -80547,6 +81041,7 @@ yourte/S.
 youtubeuse/F.
 youyou/S.
 youyouter/a0p.
+yoyette/S.
 yo-yo
 yoyoter/a0p.
 yoyotter/a0p.
@@ -80828,6 +81323,7 @@ zymase/S.
 zymogène/S.
 zymotechnie/S.
 zymotique/S.
+zythologie/S.
 zython/S.
 zythum/S.
 zzzz

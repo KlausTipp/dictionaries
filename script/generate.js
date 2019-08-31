@@ -1,9 +1,6 @@
 'use strict'
 
-/* eslint-disable max-params */
-
 var fs = require('fs')
-var url = require('url')
 var path = require('path')
 var xtend = require('xtend')
 var hidden = require('is-hidden')
@@ -59,7 +56,7 @@ dir('dictionaries')
     var description
 
     try {
-      source = read(join(base, 'SOURCE'), 'utf-8').trim()
+      source = read(join(base, '.source'), 'utf-8').trim()
     } catch (error) {
       console.log('Cannot find dictionary for `%s`', code)
       return
@@ -82,8 +79,8 @@ dir('dictionaries')
         var data = subtag ? subtag.data.record.Description : null
 
         if (data) {
-          /* Fix bug in `language-tags`, where the description of a tag when
-         * indented is seen as an array, instead of continued text. */
+          // Fix bug in `language-tags`, where the description of a tag when
+          // indented is seen as an array, instead of continued text.
           if (subtag.data.subtag === 'ia') {
             data = [data.join(' ')]
           }
@@ -130,7 +127,7 @@ dir('dictionaries')
       name: 'dictionary-' + code.toLowerCase(),
       version: pack.version || '0.0.0',
       description: description + ' spelling dictionary in UTF-8',
-      license: read(join(base, 'SPDX'), 'utf-8').trim(),
+      license: read(join(base, '.spdx'), 'utf-8').trim(),
       keywords: keywords,
       repository: pkg.repository + '/tree/master/dictionaries/' + code,
       bugs: pkg.bugs,
@@ -147,7 +144,7 @@ dir('dictionaries')
           source: source,
           variable: camelcase(code),
           code: code,
-          hasLicense: exists(join(base, 'LICENSE'))
+          hasLicense: exists(join(base, 'license'))
         })
       )
     )
@@ -168,14 +165,14 @@ dir('dictionaries')
 function process(file, config) {
   var license = config.license
   var source = config.source
-  var uri = url.parse(source)
+  var uri = new URL(source)
   var sourceName = uri.host
 
-  /* Clean name */
+  // Clean name.
   if (sourceName === 'github.com') {
-    sourceName = uri.path.slice(1)
+    sourceName = uri.pathname.slice(1)
   } else if (sourceName === 'sites.google.com') {
-    sourceName = uri.path.split('/')[2]
+    sourceName = uri.pathname.split('/')[2]
   } else if (sourceName.slice(0, 4) === 'www.') {
     sourceName = sourceName.slice(4)
   }
@@ -187,7 +184,7 @@ function process(file, config) {
       '](https://github.com/wooorm/' +
       'dictionaries/blob/master/dictionaries/' +
       config.code +
-      '/LICENSE)'
+      '/license)'
   }
 
   return file

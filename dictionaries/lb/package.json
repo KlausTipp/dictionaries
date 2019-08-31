@@ -1,6 +1,6 @@
 {
   "name": "dictionary-lb",
-  "version": "3.1.0",
+  "version": "3.1.1",
   "description": "Luxembourgish (or Letzeburgesch) spelling dictionary in UTF-8",
   "license": "EUPL-1.1",
   "keywords": [
@@ -14,9 +14,9 @@
   ],
   "repository": "https://github.com/wooorm/dictionaries/tree/master/dictionaries/lb",
   "bugs": "https://github.com/wooorm/dictionaries/issues",
-  "author": "Titus Wormer <tituswormer@gmail.com> (http://wooorm.com)",
+  "author": "Titus Wormer <tituswormer@gmail.com> (https://wooorm.com)",
   "contributors": [
-    "Titus Wormer <tituswormer@gmail.com> (http://wooorm.com)",
+    "Titus Wormer <tituswormer@gmail.com> (https://wooorm.com)",
     "Thomas Beverley <tom.beverley101@gmail.com>"
   ],
   "files": [
